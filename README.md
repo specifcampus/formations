@@ -5,6 +5,15 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ## Hauts de France
 
+### Amiens
+
+- [DUT Informatique (2 ans)](http://info.iut-amiens.fr/cours/dut-informatique-en-deux-ans/)
+- [DUT Informatique en année spéciale (1 an)](http://info.iut-amiens.fr/cours/dut-informatique-en-annee-speciale/)
+- [LP Réseaux et Génie Informatique](http://www.iut-amiens.fr/wp-content/uploads/LP_INF_RGI.pdf)
+- [Licence Informatique](https://www.u-picardie.fr/catalogue-formations/co/Catalogue_UPJV/co/Licence_Informatique.html)
+- [Master Informatique](https://www.u-picardie.fr/catalogue-formations/co/Catalogue_UPJV/co/UFR_Sciences_3.html)
+
+
 ### Calais
 
 - [DUT Informatique](http://www.iut.univ-littoral.fr/wp/dut/info-informatique/)
