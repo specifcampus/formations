@@ -44,10 +44,10 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 #### Université de Lille
 
 ##### Institut Universitaire de Technologies (IUT-A)
-- [DU Technicien en Maintenance Informatique et Réseaux](http://temir.univ-lille1.fr)
-- [DUT informatique](http://accueil.iut-info.univ-lille1.fr)
-- [LP CGIR](http://rt.univ-lille1.fr)
-- [LP DA2I](http://da2i.univ-lille1.fr)
+- [DU Technicien en Maintenance Informatique et Réseaux (TEMIR)](http://temir.univ-lille1.fr)
+- [DUT Informatique](http://accueil.iut-info.univ-lille1.fr)
+- [LP Métiers des Réseaux Informatiques et Télécommunication, option Conception, Gestion des Infrastructures Réseaux (CGIR)](http://rt.univ-lille1.fr)
+- [LP Métiers de l'informatique: Applications Web, parcours Développement et Administration Internet et Intranet (DA2I)](http://da2i.univ-lille1.fr)
 
 ##### Faculté des Sciences et Technologies (FST), [Département d'Informatique](http://fil.univ-lille1.fr)
 - [Licence Informatique](http://fil.univ-lille1.fr/formations/licence)
@@ -55,7 +55,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
     + [parcours MIAGE](http://fil.univ-lille1.fr/licence/l3-parcours-miage/)
 - [Master Informatique](http://fil.univ-lille1.fr/formations/presentation-du-master-informatique)
     + [parcours E-Services](http://fil.univ-lille1.fr/master-informatique/master-2-e-services)
-    + [parcours Infrastructures Applicatives et Génie Logiciel (IAGL)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-iagl-infrastructures-applicatives-et-genie-logiciel)
+    + [parcours Infrastructures Applicatives et Génie Logiciel (IAGL)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-iagl-infrastructures-applicatives-et-genie-logiciel)
     + [parcours Image Vision Interaction (IVI)](http://fil.univ-lille1.fr/master-informatique/master-2-ivi)
     + [parcours _Machine Learning and Data Science_ (MLDS)](https://www.univ-lille3.fr/ufr-mime/formation/master-mdls/)
     + [parcours MOdèles Complexes, Algorithmes et Données (MOCAD)](http://fil.univ-lille1.fr/master-informatique/master-2-mocad)
