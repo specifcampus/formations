@@ -41,7 +41,36 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Lille
 
+#### Université de Lille
+
+##### Institut Universitaire de Technologies (IUT-A)
+- [DU Technicien en Maintenance Informatique et Réseaux](http://temir.univ-lille1.fr)
+- [DUT informatique](http://accueil.iut-info.univ-lille1.fr)
+- [LP CGIR](http://rt.univ-lille1.fr)
+- [LP DA2I](http://da2i.univ-lille1.fr)
+
+##### Faculté des Sciences et Technologies (FST), [Département d'Informatique](http://fil.univ-lille1.fr)
+- [Licence Informatique](http://fil.univ-lille1.fr/formations/licence)
+    + [parcours INFO](http://fil.univ-lille1.fr/licence/l3-parcours-info)
+    + [parcours MIAGE](http://fil.univ-lille1.fr/licence/l3-parcours-miage/)
+- [Master Informatique](http://fil.univ-lille1.fr/formations/presentation-du-master-informatique)
+    + [parcours E-Services](http://fil.univ-lille1.fr/master-informatique/master-2-e-services)
+    + [parcours Infrastructures Applicatives et Génie Logiciel (IAGL)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-iagl-infrastructures-applicatives-et-genie-logiciel)
+    + [parcours Image Vision Interaction (IVI)](http://fil.univ-lille1.fr/master-informatique/master-2-ivi)
+    + [parcours _Machine Learning and Data Science_ (MLDS)](https://www.univ-lille3.fr/ufr-mime/formation/master-mdls/)
+    + [parcours MOdèles Complexes, Algorithmes et Données (MOCAD)](http://fil.univ-lille1.fr/master-informatique/master-2-mocad)
+    + [parcours TIC, Infrastructures, Intégrité et Répartition (TIIR)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-tiir)
+- [Master MIAGE](http://fil.univ-lille1.fr/master-miage)
+- [Doctorat en Informatique](http://edspi.univ-lille1.fr)
+
+##### Faculté des Sciences Économiques et Sociales (FSES)
+- [Master Systèmes d’information et aide à la décision (SIAD)](http://mastersiad.univ-lille1.fr)
+
+##### [École d'Ingénieur Polytech'Lille](http://www.polytech-lille.fr)
+- [Formation GIS](http://www.polytech-lille.fr/gis)
+- [Formation IMA](http://www.polytech-lille.fr/ima)
+
+#### [Institut Mine Télécom Lille Douai](http://www.telecom-lille.fr)
+
 
 ### Valenciennes
-
-
