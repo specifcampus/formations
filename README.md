@@ -4,7 +4,9 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 > Pour ajouter votre formation à cette liste, éditer cette page et créer une "Pull Request".
 
 
-## Grand Est -- Université de Reims Champagne-Ardenne
+## Grand Est
+
+#### Université de Reims Champagne-Ardenne
 
 - [DUT Informatique (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS6/PRDI3TS60)
 - [DUT Réseaux Télécom (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS8/PRDI3TS80)
