@@ -43,7 +43,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 #### [Université de Lille](https://informatique.univ-lille1.fr)
 
-##### _Institut Universitaire de Technologies_ (IUT-A)
+##### [_Institut Universitaire de Technologies_](http://www.iut.univ-lille1.fr/dpt-info) (IUT-A)
 - [DU Technicien en Maintenance Informatique et Réseaux (TEMIR)](http://temir.univ-lille1.fr)
 - [DUT Informatique](http://accueil.iut-info.univ-lille1.fr)
 - [LP Métiers des Réseaux Informatiques et Télécommunication, option Conception, Gestion des Infrastructures Réseaux (CGIR)](http://rt.univ-lille1.fr)
