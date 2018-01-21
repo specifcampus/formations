@@ -41,7 +41,37 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Lille
 
+#### [Université de Lille](https://informatique.univ-lille1.fr)
+
+##### [_Institut Universitaire de Technologies_](http://www.iut.univ-lille1.fr/dpt-info) (IUT-A)
+- [DU Technicien en Maintenance Informatique et Réseaux (TEMIR)](http://temir.univ-lille1.fr)
+- [DUT Informatique](http://accueil.iut-info.univ-lille1.fr)
+- [LP Métiers des Réseaux Informatiques et Télécommunication, option Conception, Gestion des Infrastructures Réseaux (CGIR)](http://rt.univ-lille1.fr)
+- [LP Métiers de l'informatique: Applications Web, parcours Développement et Administration Internet et Intranet (DA2I)](http://da2i.univ-lille1.fr)
+
+##### _Faculté des Sciences et Technologies_ (FST), [Département d'Informatique](http://fil.univ-lille1.fr)
+- [Licence Informatique](http://fil.univ-lille1.fr/formations/licence)
+    + [parcours INFO](http://fil.univ-lille1.fr/licence/l3-parcours-info)
+    + [parcours MATH-INFO](http://fil.univ-lille1.fr/formations/licence/l2-l3-parcours-math-info)
+    + [parcours MIAGE](http://fil.univ-lille1.fr/licence/l3-parcours-miage)
+- [Master Informatique](http://fil.univ-lille1.fr/formations/presentation-du-master-informatique)
+    + [parcours E-Services](http://fil.univ-lille1.fr/master-informatique/master-2-e-services)
+    + [parcours _Infrastructures Applicatives et Génie Logiciel_ (IAGL)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-iagl-infrastructures-applicatives-et-genie-logiciel)
+    + [parcours _Image Vision Interaction_ (IVI)](http://fil.univ-lille1.fr/master-informatique/master-2-ivi)
+    + [parcours _Machine Learning and Data Science_ (MLDS)](https://www.univ-lille3.fr/ufr-mime/formation/master-mdls/)
+    + [parcours _MOdèles Complexes, Algorithmes et Données_ (MOCAD)](http://fil.univ-lille1.fr/master-informatique/master-2-mocad)
+    + [parcours _TIC, Infrastructures, Intégrité et Répartition_ (TIIR)](http://fil.univ-lille1.fr/formations/master-informatique/master-2-tiir)
+- [Master _Méthodes Informatiques Appliquées à la Gestion des Entreprises_ (MIAGE)](http://fil.univ-lille1.fr/master-miage)
+- [Doctorat en Informatique](http://edspi.univ-lille1.fr)
+
+##### _Faculté des Sciences Économiques et Sociales_ (FSES)
+- [Master _Systèmes d’Information et Aide à la Décision_ (SIAD)](http://mastersiad.univ-lille1.fr)
+
+##### [École d'Ingénieur Polytech'Lille](http://www.polytech-lille.fr)
+- [Formation _Génie Informatique et Statistique_ (GIS)](http://www.polytech-lille.fr/gis)
+- [Formation _Informatique Microélectronique Automatique_ (IMA)](http://www.polytech-lille.fr/ima)
+
+#### [_Institut Mine Télécom_ (IMT) Lille Douai](http://www.telecom-lille.fr)
+
 
 ### Valenciennes
-
-
