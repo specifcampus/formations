@@ -3,6 +3,20 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 > Pour ajouter votre formation à cette liste, éditer cette page et créer une "Pull Request".
 
+
+## Grand Est -- Université de Reims Champagne-Ardenne
+
+- DUT Informatique (2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS6/PRDI3TS60
+- DUT Réseaux Télécom (2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS8/PRDI3TS80
+- DUT Métiers du Multimédia et de l'Internet (2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS9/PRDI3TS90
+- Licence Professionnelle "Médias Numériques Associés aux Technologies de l'Image et du Son" (MENATIS, 1 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12PS8/PRDI3PS81
+- Licence Professionnelle "Licence Professionnelle - Systèmes d'Information Industriels et Informatique Mobile" (S3IM) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12PSD/PRDI3PSD1
+- Licence Mention Informatique (3 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12LS2/PRDI3LS20 -> valide jusque septembre 2018
+- Master Informatique : -> valide jusque septembre 2018
+  + Parcours "Administration et Sécurité des réseaux" (ASR, 2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS41 
+  + Parcours "Développement des Applications Réparties" (DAR, 2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS42
+  + Parcours "Ingénierie de l'Image et de la Connaissance" (IIC, 2 ans) : http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS43
+
 ## Hauts de France
 
 ### Amiens
