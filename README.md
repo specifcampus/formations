@@ -31,8 +31,13 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Lens
 
+#### [Université d'Artois](http://informatique.univ-artois.fr/)
+
+#### Institut Universitaire de Technologies
 - [DUT Informatique](http://www.iut-lens.univ-artois.fr/formations/offre-de-formation/dut/dut-informatique/)
 - [LP Métiers de l’informatique : conception, développement et test de logiciels](http://www.iut-lens.univ-artois.fr/formations/offre-de-formation/licences-professionnelles/lp-developpement/)
+
+#### Faculté des sciences Jean Perrin
 - [Licence Informatique](http://informatique.univ-artois.fr/licence/)
 - [Master Informatique](http://informatique.univ-artois.fr/master/)
     + Ingénierie Logicielle pour l'Internet
