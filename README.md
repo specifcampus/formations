@@ -106,7 +106,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Licence MIASHS, parcours Informatique](http://mathsinfo.univ-tlse2.fr/accueil/formations/licence-miashs/l3-parcours-info/)
 - Master Informatique
     + [parcours _Informatique Collaborative en Entreprise_ (ICE)](http://mathsinfo.univ-tlse2.fr/accueil/formations/master-ice/)
-    + [parcours Informatique, Statistique, Mathématiques Appliquées à la Gestion de production_ (ISMAG)](http://mathsinfo.univ-tlse2.fr/accueil/formations/master-ismag/)
+    + [parcours _Informatique, Statistique, Mathématiques Appliquées à la Gestion de production_ (ISMAG)](http://mathsinfo.univ-tlse2.fr/accueil/formations/master-ismag/)
 - [Doctorat en Informatique](http://www.edmitt.ups-tlse.fr/)
 
 ##### _Université de Toulouse - Jean Jaurès_ (UT2J), [IUT de Blagnac](http://www.iut-blagnac.fr/)
