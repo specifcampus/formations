@@ -98,6 +98,12 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Valenciennes
 
+#### [Université de Valenciennes](https://www.univ-valenciennes.fr)
+
+##### [Institut des Sciences et Techniques de Valenciennes (ISTV)](http://www.univ-valenciennes.fr/ISTV/)
+- [Master Technologies Nouvelles des Systèmes d’Information (TNSI)](http://formations.univ-valenciennes.fr/cdm/subProgram/FR_RNE_0593279U_PR_SOF-7415/FR_RNE_0593279U_PR_SOF-7417)
+- [Master Cyber-Défense et Sécurité de l’Information (CDSI)](http://formations.univ-valenciennes.fr/cdm/program/FR_RNE_0593279U_PR_SOF-15674)
+
 ## Ile de France
 
 ### Paris
