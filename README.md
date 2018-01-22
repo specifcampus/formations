@@ -134,7 +134,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 #### [Bordeaux INP](https://www.bordeaux-inp.fr/fr)
 
-##### [Ecole d'Ingénieur Enseirb-Matmeca](https://enseirb-matmeca.bordeaux-inp.fr/fr)
+##### [_Ecole d'Ingénieur Enseirb-Matmeca_](https://enseirb-matmeca.bordeaux-inp.fr/fr)
 
 - Formation [informatique](https://enseirb-matmeca.bordeaux-inp.fr/fr/informatique)
 - Formation [télécommunications](https://enseirb-matmeca.bordeaux-inp.fr/fr/telecommunications)
