@@ -96,3 +96,15 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 
 ### Valenciennes
+
+## Occitanie
+
+### Toulouse
+
+#### [Université Toulouse 2 Jean Jaurès](http://www.univ-tlse2.fr)
+
+##### [IUT de Blagnac](http://www.iut-blagnac.fr/)
+- [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
+- [Licence Porfessionnelle APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
+
+
