@@ -16,7 +16,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [LP Systèmes d'Information Industriels et Informatique Mobile (S3IM)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12PSD/PRDI3PSD1)
 - [Licence Mention Informatique (3 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12LS2/PRDI3LS20) -> valide jusque septembre 2018
 - Master Informatique : -> valide jusque septembre 2018
-  + [Parcours Administration et Sécurité des réseaux" (ASR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS41) 
+  + [Parcours Administration et Sécurité des réseaux" (ASR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS41)
   + [Parcours Développement des Applications Réparties (DAR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS42)
   + [Parcours Ingénierie de l'Image et de la Connaissance (IIC, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS43)
 
@@ -30,20 +30,20 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Licence Informatique](https://www.u-picardie.fr/catalogue-formations/co/Catalogue_UPJV/co/Licence_Informatique.html)
 - [Master Informatique](https://www.u-picardie.fr/catalogue-formations/co/Catalogue_UPJV/co/UFR_Sciences_3.html)
     + Ingénierie des Systèmes et Réseaux Informatiques
-    + Organisation des Systèmes d'Information de l'Entreprise 
-    + Conduite de projet multimédia 
-    + Systèmes d'information stratégiques 
+    + Organisation des Systèmes d'Information de l'Entreprise
+    + Conduite de projet multimédia
+    + Systèmes d'information stratégiques
     + Systèmes d'information multimédia et internet  à distance
     + Systèmes d'information et informatique nomade  à distance
-    + Informatique et Instrumentation pour la Biologie et la Santé 
+    + Informatique et Instrumentation pour la Biologie et la Santé
 
 
 ### Calais
 
 - [DUT Informatique](http://www.iut.univ-littoral.fr/wp/dut/info-informatique/)
 - [Licence Informatique](http://dpt-info.univ-littoral.fr/wiki/Licence:Accueil)
-- Master Informatique : 
-    + [Ingénierie du Logiciel Libre](http://dpt-info.univ-littoral.fr/wiki/I2L:Accueil), 
+- Master Informatique :
+    + [Ingénierie du Logiciel Libre](http://dpt-info.univ-littoral.fr/wiki/I2L:Accueil),
     + [Ingénierie des Systèmes Informatiques Distribués](http://dpt-info.univ-littoral.fr/wiki/ISIDIS:Accueil)
 
 ### Lens
@@ -119,7 +119,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master Miage](http://www.mi.parisdescartes.fr/Miage/Accueil.html)
     + Formation par apprentissage
     + Formation initiale et continue
-    
+
 #### [IUT Paris Descartes](http://www.iut.univ-paris5.fr/FILIERES/INFO-Informatique)
 - DUT Informatique
 - Licence professionnelle métiers de l'informatique
@@ -127,6 +127,18 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - Diplôme d'Université Technicien en Maintenance Informatique et Réseaux
 - Diplôme d'Université Consultant Fonctionnel ERP
 
+
+## Nouvelle Aquitaine
+
+### Bordeaux
+
+#### [Bordeaux INP](https://www.bordeaux-inp.fr/fr)
+
+##### [_Ecole d'Ingénieur Enseirb-Matmeca_](https://enseirb-matmeca.bordeaux-inp.fr/fr)
+
+- Formation [informatique](https://enseirb-matmeca.bordeaux-inp.fr/fr/informatique)
+- Formation [télécommunications](https://enseirb-matmeca.bordeaux-inp.fr/fr/telecommunications)
+- Formation [réseaux et systèmes d'information](https://enseirb-matmeca.bordeaux-inp.fr/fr/reseaux-et-systemes-d-information)
 
 ## Occitanie
 
@@ -144,4 +156,3 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 - [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
 - [LP APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
-
