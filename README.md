@@ -108,3 +108,32 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Licence Porfessionnelle APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
 
 
+## Ile de France
+
+### Paris
+
+#### [Université Paris Descartes](http://odf.parisdescartes.fr/fr/index.html)
+- [Licence d'informatique](http://www.mi.parisdescartes.fr/formations/licence-dinformatique/)
+    + [parcours Informatique](http://www.mi.parisdescartes.fr/formations/licence-dinformatique/parcours-informatique/)
+    + [parcours Miage](http://www.mi.parisdescartes.fr/formations/licence-dinformatique/parcours-miage/)
+- [Parcours bi-diplomant Mathématiques et Informatique](http://www.mi.parisdescartes.fr/formations/parcours-bi-diplomant-informatique-et-mathematiques/)
+- [Parcours bi-diplomant Droit et Informatique](http://www.droit.univ-paris5.fr/ETUDES-ET-FORMATION/Licence/Parcours-bi-diplomants/Droit-et-Informatique)
+- [Master informatique](http://www.mi.parisdescartes.fr/formations/master-informatique/)
+    + [specialité intelligence artificielle](http://www.mi.parisdescartes.fr/formations/master-informatique/specialite-intelligence-artificielle/)
+        + Parcours apprentissage
+        + Parcours Distributed Artificial Intelligence
+    + [specialité image et plurimedia](http://www.mi.parisdescartes.fr/formations/master-informatique/specialite-image-et-plurimedia/)
+    + [specialité sécurité, réseaux et e-santé](http://www.mi.parisdescartes.fr/formations/master-informatique/specialite-securite-reseaux-et-e-sante/)
+        + Parcours "securcom"
+        + Parcours "healthcom"
+- [Master Miage](http://www.mi.parisdescartes.fr/Miage/Accueil.html)
+    + Formation par apprentissage
+    + Formation initiale et continue
+    
+#### [IUT Paris Descartes](http://www.iut.univ-paris5.fr/FILIERES/INFO-Informatique)
+- DUT Informatique
+- Licence professionnelle métiers de l'informatique
+- DEST (Diplôme d’Études Supérieures Technologiques en Informatique) Informatique/BSc (Bachelor of Science) « European Computing » de l'Université de Brighton (UK)
+- Diplôme d'Université Technicien en Maintenance Informatique et Réseaux
+- Diplôme d'Université Consultant Fonctionnel ERP
+>
