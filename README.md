@@ -227,7 +227,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Montpellier
 
-##### _Université Paul-Valery Montpellier
+##### Université Paul-Valery Montpellier
 
 - [Licence MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs)
 - [Master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs)
