@@ -3,6 +3,68 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 > Pour ajouter votre formation à cette liste, éditer cette page et créer une "Pull Request".
 
+## Bretagne
+
+### Brest
+
+#### Université de Bretagne Occidentale
+
+- [Licence informatique](http://www.univ-brest.fr/departement-informatique/menu/Licence+informatique/La-licence-Informatique)
+- [Master informatique](http://www.univ-brest.fr/departement-informatique/menu/Master+Informatique/Presentation)
+	+ [parcours ILIADE: Ingéniérie du logiciel, applications aux données environnementales](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-ingenierie-du-logiciel-applications-aux-donnees-environnementales-subprogram.html)
+	+ [parcours international](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-international-subprogram-parcours-international.html)
+	+ [parcours LSE: Logiciels pour les systèmes embarqués](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-logiciels-pour-systemes-embarques-subprogram-2.html)
+	+ [parcours SIIA: Systèmes Interactifs Intelligents et Autonomes](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-systemes-interactifs-intelligents-et-autonomes-subprogram-5.html)
+	+ [parcours TIIL-A:  Technologies de l'Information et Ingénierie du Logiciel par Alternance](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-technologies-de-l-information-et-ingenierie-du-logiciel-par-alternance-subprogram-3.html)
+	+ [parcours CCN: Compétences complémentaires dans les services du numérique](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-competences-complementaires-dans-les-services-du-numerique-subprogram-parcours-reconversion-complementaire-en-informatique.html)
+	+ [parcours DOSI: Développement à l’Offshore des Systèmes d’Information](http://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-program-fr_rne_0290346u_prog6845/parcours-developpement-logiciel-des-systemes-d-information-subprogram-4.html)
+	
+#### IMT Atlantique
+
+- [Diplôme Ingénieur spécialité informatique et réseaux](http://www.imt-atlantique.fr/fr/formation/ingenieur-generaliste/admission-sur-concours-commun-mines-ponts)
+- [Diplôme Ingenieur par apprentissage spécialisé informatique, réseaux, télécom](http://www.imt-atlantique.fr/fr/formation/ingenieur-par-apprentissage/ingenieurs-specialite-informatique-reseaux-telecoms)
+
+### Lannion
+
+- [DUT informatique](http://www.iut-lannion.fr/lyceens-etudiants/choisir-un-dut/dut-informatique)
+- [Licence professionnelle : Administration et Gestion des Systèmes et Réseaux informatiques](http://www.iut-lannion.fr/lyceens-etudiants/choisir-une-licence-pro/lp-agsri)
+- [Licence professionnelle : Management de projet Informatique et Commercial](http://www.iut-lannion.fr/lyceens-etudiants/choisir-une-licence-pro/lp-mic)
+
+#### ENSSAT (École Nationale Supérieure Des Sciences Appliquées et de Technologie)
+ 
+- [Diplôme Ingénieur en informatique](http://www.enssat.fr/fr_FR/formations/formation-ingenieur-informatique)
+	
+### Vannes
+
+#### Université de Bretagne Sud
+
+- [DUT informatique](http://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/diplome-universitaire-de-technologie-dut-CB/sciences-technologies-sante-STS/dut-informatique-program-2tin00-213.html)
+- [Licence informatique](http://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/licence-DC/sciences-technologies-sante-STS/licence-informatique-program-3smf00-217-3smf01.html)
+- [Master informatique](http://www-informatique.univ-ubs.fr/master-info/index.shtml)
+	+ [parcours SAIM: Systèmes et Applications pour l'Informatique Mobile](http://www-informatique.univ-ubs.fr/master-info/saim.shtml)
+	+ [parcours AIDN: Applications Interactives et Données Numériques](http://www-informatique.univ-ubs.fr/master-info/aidn.shtml)
+- [Diplôme Ingenieur en informatique de Confiance: cybersécurité du logiciel](http://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/diplome-d-ingenieur-DI/sciences-technologies-sante-STS/diplome-d-ingenieur-informatique-program-iinf00-207.html)
+
+### Rennes
+
+#### Université de Rennes 1 (ISTIC)
+
+- [Licence informatique](https://istic.univ-rennes1.fr/licence-informatique)
+- [Master informatique](https://istic.univ-rennes1.fr/master-informatique-0)
+	+ parcours IL ingéniérie logicielle
+	+ parcours SSR sécurité, système et réseaux
+	+ parcours SIF science informatique
+	+ parcours CCS cloud computing services
+- [Master MIAGE](https://sfc.univ-rennes1.fr/informatique/master_miage.htm)
+	
+#### ESIR (Ecole Supérieure d'Ingénieurs de Rennes, Université Rennes 1)
+
+- [Diplôme Ingénieur spécialité Technologies de l’Information](https://esir.univ-rennes1.fr/specialite-technologies-de-linformation-ti)
+
+#### INSA Rennes
+
+- [Diplôme Ingénieur spécialité informatique](https://www.insa-rennes.fr/info.html)
+
 
 
 ## Grand Est
