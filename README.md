@@ -162,3 +162,10 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 - [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
 - [LP APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
+
+### Montpellier
+
+##### _Université Paul-Valery Montpellier
+
+- [Licence MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs)
+- [Master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs)
