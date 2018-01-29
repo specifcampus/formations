@@ -237,3 +237,16 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
 - [LP APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
 
+## Pays de la Loire
+
+### Nantes
+
+#### [Centrale Nantes](https://www.ec-nantes.fr)
+
+- Formation [informatique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-informatique-186288.kjsp?RH=1490195680756)
+- Formation [calcul intensif en sciences de l'ingénieur](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-calcul-intensif-en-sciences-de-l-ingenieur-188997.kjsp?RH=1490195680756)
+- Formation [réalité virtuelle](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-realite-virtuelle-183815.kjsp?RH=1490195680756)
+- Formation [sciences du numérique pour les sciences de la vie et de la santé](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-sciences-du-numerique-pour-les-sciences-de-la-vie-et-de-la-sante-186354.kjsp?RH=1490195680756)
+- Formation [ville numérique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-ville-numerique-189042.kjsp?RH=1490195680756)
+
+#### Université de Nantes
