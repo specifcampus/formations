@@ -208,6 +208,11 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - Formation [télécommunications](https://enseirb-matmeca.bordeaux-inp.fr/fr/telecommunications)
 - Formation [réseaux et systèmes d'information](https://enseirb-matmeca.bordeaux-inp.fr/fr/reseaux-et-systemes-d-information)
 
+### Limoges
+
+#### [IUT du Limousin](https://www.iut.unilim.fr/)
+- [DUT Informatique](http://www.iut.unilim.fr/les-formations/dut/informatique/)
+
 ## Occitanie
 
 ### Montpellier
