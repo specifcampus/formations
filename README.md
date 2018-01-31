@@ -307,7 +307,7 @@ initiale/smiag1212)
 - [Master 2 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) Nouvelles Technologies et Direction de Projets (NTDP)](http://formations.unice.fr/formation-initiale/smiag12121)
 - [Master 2 Système d'Information et Management du Risque (SIRIS)](http://formations.unice.fr/formation-initiale/smiag12122)
 - [Master 2 MIAGE Sciences de la Décision (SD)](http://formations.unice.fr/formation-initiale/smiag12124)
-- [Master 2 Signal pour la Santé, les Télécommunications, l'Image et le Multimédia (SSTIM)] (http://formations.unice.fr/formation-initiale/sminf12125)
+- [Master 2 Signal pour la Santé, les Télécommunications, l'Image et le Multimédia (SSTIM)](http://formations.unice.fr/formation-initiale/sminf12125)
 
 - [Ingénieur Polytech Sciences Informatiques](http://www.polytechnice.fr/)
 - [Ingénieur Polytech Electronique et Informatique Industrielle (en partenariat avec ITII-PACA)](http://formations.unice.fr/formation-initiale/epuing55)
