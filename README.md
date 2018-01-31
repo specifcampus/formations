@@ -213,6 +213,14 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 #### [IUT du Limousin](https://www.iut.unilim.fr/)
 - [DUT Informatique](http://www.iut.unilim.fr/les-formations/dut/informatique/)
 
+#### [Université de Limoges - Faculté des Sciences](https://www.sciences.unilim.fr/informatique/)
+- [Licence Informatique](https://www.sciences.unilim.fr/informatique/licence-informatique/)
+- [Master informatique]
+	+ [Parcours ISICG](https://www.sciences.unilim.fr/informatique/informatique-issig/)
+	+ [Parcours CRYPTIS](https://www.sciences.unilim.fr/informatique/master-1-informatique/)
+- [Master 2 Informatique - ISICG](https://www.sciences.unilim.fr/informatique/master-isicg/)
+- [Master 2 Informatique - CRYPTIS](https://www.sciences.unilim.fr/informatique/master-cryptis/)
+- [Doctorat en Informatique](http://s2i.ed.univ-poitiers.fr/)
 ## Occitanie
 
 ### Montpellier
