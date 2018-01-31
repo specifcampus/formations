@@ -284,7 +284,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [DUT Informatique](http://unice.fr/iut/departements-denseignements/info)
 - [DUT Statistique et Informatique Décisionnelle](http://unice.fr/iut/departements-denseignements/stid)
 
-- [LP Automatisme et Informatique Industrielle - Systèmes Automatisés et Réseaux Industriels (SARI)] (http://formations.unice.fr/formation-initiale/tlisa12120)
+- [LP Automatisme et Informatique Industrielle - Systèmes Automatisés et Réseaux Industriels (SARI)](http://formations.unice.fr/formation-initiale/tlisa12120)
 - [LP Développement Applications Mobiles (SIL DAM)](http://formations.unice.fr/formation-initiale/tlfda13130)
 - [LP Informatique Multimedia Appliquée (IMApp)](http://formations.unice.fr/formation-initiale/hlim12120)
 - [LP Réseaux et Télécommunications - Intégration-Administration des Réseaux Informatiques (IRI)](http://formations.unice.fr/formation-initiale/tliir12120)
@@ -296,7 +296,7 @@ initiale/smiag1212)
 - [Licence d'Informatique parcours MIAGE](http://formations.unice.fr/formation-initiale/sli12141)
 
 - [Master 1 Informatique](http://formations.unice.fr/formation-initiale/sminf1212)
-- [Master 1 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)](http://formations.unice.fr/formation-
+- [Master 1 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)](http://formations.unice.fr/formation-initiale/smiag1212)
 - [Master 1 Recherche en Informatique Fondamentale (RIF)](http://formations.unice.fr/formation-initiale/sminf12127)
 - [Master 1 Ingénierie Mathématiques (IM)](http://formations.unice.fr/formation-initiale/smmat12120)
 
