@@ -270,3 +270,39 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - Formation [ville numérique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-ville-numerique-189042.kjsp?RH=1490195680756)
 
 #### Université de Nantes
+
+## Provence Alpes Côte d'Azur
+
+### Nice
+
+#### Université Côte d'Azur
+
+-  Licence Professionnelle Systèmes Informatiques et Logiciels - Informatique Distribuée et Systèmes d'Information d'Entreprise (IDSE) (http://formations.unice.fr/formation-initiale/tlfid12120)
+-  Master 1 Recherche en Informatique Fondamentale (RIF) (http://formations.unice.fr/formation-initiale/sminf12127)
+-  Master 2 Informatique, Fondements et Ingénierie (IFI) (http://formations.unice.fr/formation-initiale/sminf12121)
+-  Master 2 Recherche en Informatique Fondamentale (RIF) (http://formations.unice.fr/formation-initiale/sminf12128)
+-  Licence Professionnelle Informatique Multimedia Appliquée (IMApp) (http://formations.unice.fr/formation-initiale/hlim12120)
+-  Informatique et Mathématiques Appliquées à la Finance et à l'Assurance (IMAFA)  (http://formations.unice.fr/formation-initiale/sminf12122)
+-  Certificat National Informatique et Internet de niveau 1 (C2i) (http://formations.unice.fr/formation-initiale/bc2i215)
+-   Diplôme Universitaire de Technologie (DUT) - Génie Électrique et Informatique Industrielle (http://unice.fr/iut/departements-denseignements/geii)
+-  Diplôme Universitaire de Technologie (DUT) - Informatique (http://unice.fr/iut/departements-denseignements/info)
+-  Diplôme Universitaire de Technologie (DUT) - Statistique et Informatique Décisionnelle (http://unice.fr/iut/departements-denseignements/stid)
+-  Ingénieur Polytech Sciences Informatiques (http://www.polytechnice.fr/)
+-  Licence d'Informatique parcours Informatique ( Licence d'Informatique parcours Informatique)
+-  Licence Double Cursus Mathématiques et Informatique (http://formations.unice.fr/formation-initiale/slmi12140)
+-  Licence Professionnelle Automatisme et Informatique Industrielle - Systèmes Automatisés et Réseaux Industriels (LP SARI) (http://formations.unice.fr/formation-initiale/tlisa12120)
+-  Master 1 Informatique (http://formations.unice.fr/formation-initiale/sminf1212)
+-   Master 1 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) (http://formations.unice.fr/formation-initiale/smiag1212)
+-  Master 2 Informatique, Mobiquité, Base de Données et Intégration de Systèmes (MBDS) (http://formations.unice.fr/formation-initiale/sminf12123)
+-   Ingénieur Polytech Electronique et Informatique Industrielle (en partenariat avec ITII-PACA) (http://formations.unice.fr/formation-initiale/epuing55)
+-  Licence Professionnelle Réseaux et Télécommunications - Intégration-Administration des Réseaux Informatiques (LP IRI) (http://formations.unice.fr/formation-initiale/tliir12120)
+-  Master 2 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) Mobiquité, Base de Données/Big Data et Intégration de Systèmes (MBDS) (http://formations.unice.fr/formation-initiale/smiag12123)
+-  Master 2 Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) Nouvelles Technologies et Direction de Projets (NTDP) (http://formations.unice.fr/formation-initiale/smiag12121)
+-  Licence d'Informatique parcours MIAGE (http://formations.unice.fr/formation-initiale/sli12141)
+-  Master 2 Système d'Information et Management du Risque (SIRIS) (http://formations.unice.fr/formation-initiale/smiag12122)
+-  Licence Professionnelle Développement Applications Mobiles (SIL DAM) http://formations.unice.fr/formation-initiale/tlfda13130)
+-  Master 2 MIAGE Sciences de la Décision (SD) (http://formations.unice.fr/formation-initiale/smiag12124)
+-  Master 2 Signal pour la Santé, les Télécommunications, l'Image et le Multimédia (SSTIM) (http://formations.unice.fr/formation-initiale/sminf12125)
+-   Master 1 Ingénierie Mathématiques (IM) (http://formations.unice.fr/formation-initiale/smmat12120)
+-  Licence Professionnelle Systèmes Informatiques et Logiciels - Informatique Distribuée et Systèmes d'Information d'Entreprise (IDSE) (http://formations.unice.fr/formation-initiale/tlfid12120)
+-  Licence Professionnelle Systèmes Informatiques et Logiciels - Informatique Distribuée et Systèmes d'Information d'Entreprise (IDSE) (http://formations.unice.fr/formation-initiale/tlfid12120)
