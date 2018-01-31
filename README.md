@@ -217,6 +217,18 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Montpellier
 
+##### Université de Montpellier
+
+- [Licence informatique](http://informatique-fds.edu.umontpellier.fr/etudiants/offre-de-formation-licence/), parcours Informatique et Mathématiques-Informatique
+- [Master informatique](http://informatique-fds.edu.umontpellier.fr/etudiants/offre-de-formation-master/) :
+	+ [Parcours AIGLE](http://informatique-fds.edu.umontpellier.fr/parcours-aigle-architecture-et-ingenierie-du-logiciel-et-du-web/) – Architectures et ingénierie du logiciel et du Web
+    	+ [Parcours DECOL](http://informatique-fds.edu.umontpellier.fr/parcours-decol-donnees-connaissances-et-langage-naturel/) – Données connaissances et langage naturel
+    	+ [Parcours IMAGINA](http://informatique-fds.edu.umontpellier.fr/parcours-imagina-image-games-and-intelligent-agents/) – Images, games, intelligent agents
+    	+ [Parcours IPS](http://informatique-fds.edu.umontpellier.fr/parcours-ips-informatique-pour-les-sciences/) – Informatique pour les sciences
+    	+ [Parcours MSI](http://informatique-fds.edu.umontpellier.fr/parcours-mi-mathematique-informatique/) – Mathématiques et Science Informatique
+    	+ [Parcours MIT](http://informatique-fds.edu.umontpellier.fr/parcours-mit-informatique-theorique/) – Informatique théorique
+- Master MEEF : préparation au CAPES de mathématiques option informatique
+
 ##### Université Paul-Valery Montpellier
 
 - [Licence MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs)
