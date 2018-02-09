@@ -5,6 +5,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 + DUT = Diplôme Universitaire de Technologie
 + LP = Licence Professionnelle
++ DEUST = Diplôme d'études universitaires scientifiques et techniques
 
 ## Bretagne
 
@@ -198,7 +199,27 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - Diplôme d'Université Technicien en Maintenance Informatique et Réseaux
 - Diplôme d'Université Consultant Fonctionnel ERP
 
-
+#### [Sorbonne Université](https://www.sorbonne-universite.fr)
+- [Licence d'informatique](http://sciences.sorbonne-universite.fr/fr/formations/diplomes/sciences_et_technologies2/licences/licence_st_mention_informatique.html)
+- [Licence professionnelle "Projet Web"](http://sciences.sorbonne-universite.fr/fr/formations/diplomes/sciences_et_technologies2/licences_professionnelles2/lp_projet_web_developpement_et_communication_multimedia.html)
+- [DEUST Systèmes d'Information, Numérique et Electronique](https://www.polytech.upmc.fr/fr/formation/deust-sine)
+- [Master d'informatique]()
+	+ [Parcours ANDROIDE - Agents distribués robotique, recherche opérationnelle, interaction, décision (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/androide)
+	+ [Parcours BIM - Bioinformatique et modélisation (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/bim)
+    + [Parcours DAC - Données, Apprentissage, Connaissances (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/dac)
+    + [Parcours IMA - Imagerie (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/ima)
+    + [Parcours RES - Réseaux (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/res)
+    + [Parcours SAR - Systèmes et applications réparties (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/sar)
+    + [Parcours SESI - Systèmes électroniques, systèmes informatiques (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/sesi)
+    + [Parcours SFPN - Sécurité, fiabilité et performance du numérique (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/sfpn)
+    + [Parcours STL - Sciences et technologie du logiciel (M2)](http://www-master.ufr-info-p6.jussieu.fr/lmd/specialite/stl)
+- [Ecole doctorale informatique, télécommunications et électronique de Paris (EDITE)](https://edite-de-paris.fr/spip/)	 
+- [Ecole d'ingénieurs Polytech Sorbonne](https://www.polytech.upmc.fr/fr)
+	+ [Formation Eléctronique et informatique parcours système embarqué](https://www.polytech.upmc.fr/fr/formation/electronique-et-informatique-parcours-systemes-embarques)
+	+ [Formation Eléctronique et Informatique parcours Informatique Industrielle](https://www.polytech.upmc.fr/fr/formation/electronique-et-informatique-industrielle-en-alternance) 
+	+ [Formation Informatique et Mathématiques Appliquées](https://www.polytech.upmc.fr/fr/formation/informatique-et-mathematiques-appliquees)
+	+ [Formation Robotique](https://www.polytech.upmc.fr/fr/formation/robotique)
+	 
 ## Nouvelle Aquitaine
 
 ### Bordeaux
