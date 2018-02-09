@@ -315,7 +315,9 @@ initiale/smiag1212)
 - [Informatique et Mathématiques Appliquées à la Finance et à l'Assurance (IMAFA)](http://formations.unice.fr/formation-initiale/sminf12122)
 - [Certificat National Informatique et Internet de niveau 1 (C2i)](http://formations.unice.fr/formation-initiale/bc2i215)
 
+### Toulon
 
+#### Université de Toulon
 
-
-
+- [Licence d'Informatique](http://www.univ-tln.fr/Licence-Informatique-parcours-Informatique.html)
+- [Master Informatique: Développement et Ingénierie des Données (DID)](http://www.univ-tln.fr/Master-Informatique-parcours-Developpement-et-Ingenierie-des-Donnees.html)
