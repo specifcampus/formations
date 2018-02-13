@@ -245,6 +245,18 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master 2 Informatique - ISICG](https://www.sciences.unilim.fr/informatique/master-isicg/)
 - [Master 2 Informatique - CRYPTIS](https://www.sciences.unilim.fr/informatique/master-cryptis/)
 - [Doctorat en Informatique](http://s2i.ed.univ-poitiers.fr/)
+
+### Poitiers
+
+#### [Université de Poitiers - Faculté des Sciences](http://sfa.univ-poitiers.fr/)
+
+- [Licence informatique](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-licences/licences-sciences-technologies-sante/licence-sciences-technologies-sante-mention-informatique-251971.kjsp)
+- [Licence professionnelle technologies logicielles pour le web et les terminaux mobiles](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-licences-professionnelles/licences-professionnelles-sciences-technologies-sante/licence-professionnelle-sciences-technologies-sante-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-parcours-technologies-logicielles-pour-le-web-et-les-terminaux-mobiles-20405.kjsp?RH=1350289883241&RF=1350289883241)
+- [Master informatique](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-masters/mention-informatique-mathematiques-multimedia-telecommunications/masters-mention-informatique-mathematiques-multimedia-telecommunications-707691.kjsp) :
+    + Parcours conception logicielle
+    + Parcours gestion et analyse de données
+    + Parcours informatique embarquée
+	
 ## Occitanie
 
 ### Montpellier
