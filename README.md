@@ -250,12 +250,13 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 #### [Université de Poitiers - Faculté des Sciences](http://sfa.univ-poitiers.fr/)
 
-- [Licence informatique](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-licences/licences-sciences-technologies-sante/licence-sciences-technologies-sante-mention-informatique-251971.kjsp)
-- [Licence professionnelle technologies logicielles pour le web et les terminaux mobiles](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-licences-professionnelles/licences-professionnelles-sciences-technologies-sante/licence-professionnelle-sciences-technologies-sante-mention-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-parcours-technologies-logicielles-pour-le-web-et-les-terminaux-mobiles-20405.kjsp?RH=1350289883241&RF=1350289883241)
-- [Master informatique](http://www.univ-poitiers.fr/formation/nos-formations/par-diplome/les-masters/mention-informatique-mathematiques-multimedia-telecommunications/masters-mention-informatique-mathematiques-multimedia-telecommunications-707691.kjsp) :
+- [Licence informatique](http://sfa.univ-poitiers.fr/formation/offre-de-formation/licence-informatique-1643590.kjsp?RH=1270130156416)
+- [Licence professionnelle technologies logicielles pour le web et les terminaux mobiles](http://sfa.univ-poitiers.fr/formation/offre-de-formation/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-1643684.kjsp?RH=1270130156416)
+- [Master informatique](http://sfa.univ-poitiers.fr/formation/offre-de-formation/master-informatique-1643807.kjsp?RH=1268644504943) :
     + Parcours conception logicielle
     + Parcours gestion et analyse de données
     + Parcours informatique embarquée
+- Master MEEF : préparation au CAPES de mathématiques option informatique
 	
 ## Occitanie
 
