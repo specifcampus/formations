@@ -73,6 +73,28 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ## Grand Est
 
+#### Université de Lorraine
+
+##### Metz
+
+- [DUT Informatique](https://www.iut-metz.univ-lorraine.fr/index.php/les-formations/le-dut/dut-info)
+
+##### Nancy
+
+- [DUT Informatique](http://iut-charlemagne.univ-lorraine.fr/content/departement-informatique)
+- [DUT Réseaux et Télécom](http://iutnb.univ-lorraine.fr/fr/content/rt-dut)
+- [Licence Informatique](http://www.fst.univ-lorraine.fr/formations/licence-informatique)
+- [Licence MIASHS](http://mathinfo.univ-lorraine.fr/content/licence-miashs)
+- [Master MIAGE](http://mathinfo.univ-lorraine.fr/content/master-miage)
+- [Master Informatique](http://www.fst.univ-lorraine.fr/formations/master-informatique)
+- [Master Sciences de la Cognition et Applications](http://mathinfo.univ-lorraine.fr/content/master-sciences-de-la-cognition-et-applications)
+- [Diplôme d'Ingénieur à l'École Nationale Supérieure des Mines de Nancy](http://mines-nancy.univ-lorraine.fr/content/information-et-syst%C3%A8mes)
+- [Diplôme d'Ingénieur à Télécom Nancy](http://telecomnancy.univ-lorraine.fr/)
+
+##### Saint-Dié-des-Vosges
+
+- [DUT Informatique](http://iutsd.univ-lorraine.fr/departement-informatique/)
+
 #### Université de Reims Champagne-Ardenne
 
 - [DUT Informatique (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS6/PRDI3TS60)
