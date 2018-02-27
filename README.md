@@ -55,11 +55,24 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 - [Licence informatique](https://istic.univ-rennes1.fr/licence-informatique)
 - [Master informatique](https://istic.univ-rennes1.fr/master-informatique-0)
-	+ parcours IL ingéniérie logicielle
-	+ parcours SSR sécurité, système et réseaux
-	+ parcours SIF science informatique
-	+ parcours CCS cloud computing services
+	+ Spécialité IL ingéniérie logicielle
+		+ [parcours IL (En apprentissage ou non)](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-ingenierie-logicielle-il)
+		+ [parcours Mobilitic](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-mobilitic?studentstatus=112)
+	+ Spécialité SSR sécurité, système et réseaux
+		+ [parcours Cyber](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-securite-des-systemes?studentstatus=112)
+		+ [parcours Réseaux et systèmes hétérogènes](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-reseaux-et-systemes-heterogenes)
+	+ [Spécialité SIF science informatique](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-science-informatique-sif)
+		+ La spécialité SIF est décrite en détail [ici](http://master.irisa.fr/).
+	+ [Spécialité CCS Cloud Computing Services](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-cloud-computing-and-services-ccs)
+		+ La spécialité CCS est décrite en détail [ici](http://ccs.istic.univ-rennes1.fr/)
+	+ [Spécialité Compétences Complémentaires dans les services du Numérique (abrégé en CCN)](https://formations.univ-rennes1.fr/formation/master-informatique/master-competences-complementaires-dans-les-services-du-numerique)
 - [Master MIAGE](https://sfc.univ-rennes1.fr/informatique/master_miage.htm)
+	+ [Spécialité Big Data : décisionnel et apprentissage (BDDA)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage)
+	+ [Spécialité Développement des logiciels et intégration de systèmes (DLIS)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-0)
+- [EIT Digital Master School](https://www.eitdigital.eu/eit-digital-academy/master-school/)
+	+ [Cloud Computing and Services](http://ccs.istic.univ-rennes1.fr/)
+	+ [Cybersecurity](https://istic.univ-rennes1.fr/en/master-computer-science-eit-cybersecurity)
+
 	
 #### ESIR (Ecole Supérieure d'Ingénieurs de Rennes, Université Rennes 1)
 
