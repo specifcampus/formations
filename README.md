@@ -69,7 +69,10 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master MIAGE](https://sfc.univ-rennes1.fr/informatique/master_miage.htm)
 	+ [Spécialité Big Data : décisionnel et apprentissage (BDDA)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage)
 	+ [Spécialité Développement des logiciels et intégration de systèmes (DLIS)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-0)
-	
+- [EIT Digital Master School](https://www.eitdigital.eu/eit-digital-academy/master-school/)
+	+ [Cloud Computing and Services](http://ccs.istic.univ-rennes1.fr/)
+	+ [Cybersecurity](https://istic.univ-rennes1.fr/en/master-computer-science-eit-cybersecurity)
+
 	
 #### ESIR (Ecole Supérieure d'Ingénieurs de Rennes, Université Rennes 1)
 
