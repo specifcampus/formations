@@ -56,6 +56,8 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Licence informatique](https://istic.univ-rennes1.fr/licence-informatique)
 - [Master informatique](https://istic.univ-rennes1.fr/master-informatique-0)
 	+ parcours IL ingéniérie logicielle
+		+ [Spécialité IL (En apprentissage ou non)](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-ingenierie-logicielle-il)
+		+ [Spécialité mobilitic](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-mobilitic?studentstatus=112)
 	+ parcours SSR sécurité, système et réseaux
 	+ parcours SIF science informatique
 	+ parcours CCS cloud computing services
