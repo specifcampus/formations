@@ -57,18 +57,18 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master informatique](https://istic.univ-rennes1.fr/master-informatique-0)
 	+ Spécialité IL ingéniérie logicielle
 		+ [parcours IL (En apprentissage ou non)](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-ingenierie-logicielle-il)
-		+ [parcours mobilitic](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-mobilitic?studentstatus=112)
+		+ [parcours Mobilitic](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-mobilitic?studentstatus=112)
 	+ Spécialité SSR sécurité, système et réseaux
 		+ [parcours Cyber](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-securite-des-systemes?studentstatus=112)
 		+ [parcours Réseaux et systèmes hétérogènes](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-reseaux-et-systemes-heterogenes)
 	+ [Spécialité SIF science informatique](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-science-informatique-sif)
-		+ La spécialité SIF est décrit en détail [ici](http://master.irisa.fr/).
-	+ [Spécialité CCS cloud computing services](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-cloud-computing-and-services-ccs)
-		+ La spécialité SIF est décrit en détail [ici](http://ccs.istic.univ-rennes1.fr/)
+		+ La spécialité SIF est décrite en détail [ici](http://master.irisa.fr/).
+	+ [Spécialité CCS Cloud Computing Services](https://formations.univ-rennes1.fr/formation/master-informatique/master-mention-informatique-parcours-cloud-computing-and-services-ccs)
+		+ La spécialité CCS est décrite en détail [ici](http://ccs.istic.univ-rennes1.fr/)
 	+ [Spécialité Compétences Complémentaires dans les services du Numérique (abrégé en CCN)](https://formations.univ-rennes1.fr/formation/master-informatique/master-competences-complementaires-dans-les-services-du-numerique)
 - [Master MIAGE](https://sfc.univ-rennes1.fr/informatique/master_miage.htm)
-	+ [Miage spécialité Big Data : décisionnel et apprentissage (BDDA)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage)
-	+ [spécialité Développement des logiciels et intégration de systèmes (DLIS)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-0)
+	+ [Spécialité Big Data : décisionnel et apprentissage (BDDA)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage)
+	+ [Spécialité Développement des logiciels et intégration de systèmes (DLIS)](https://istic.univ-rennes1.fr/formations/master-mention-methodes-informatiques-appliquees-la-gestion-des-entreprises-miage-0)
 	
 	
 #### ESIR (Ecole Supérieure d'Ingénieurs de Rennes, Université Rennes 1)
