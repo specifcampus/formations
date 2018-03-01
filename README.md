@@ -15,22 +15,23 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 - [DUT Statistique et Informatique Décisionnelle (STID)](https://iut.univ-lyon2.fr/fr/formations/dut/statistique-et-informatique-decisionnelle/)
 - [Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales (MIASHS)](https://assp.univ-lyon2.fr/mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-689613.kjsp)
-	+ [Parcours Informatique et Data Science (IDS)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/l3-ids/)
+	+ [Parcours Data Science (IDS)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/l3-ids/)
 - DU Communication et Conception Infographique (DUCCI)
 	+ [1re année](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/infographie-multimedia/1ere-annee/)
 	+ [2e année](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/infographie-multimedia/2eme-annee/)
 - [DU Jeux vidéo - Level Design](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/jeux-video/du-level-design/)
 - [DU Jeux vidéo - Infographie 3D](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/jeux-video/du-infographie-3d/)
+- [Master Humanités Numériques](https://icom.univ-lyon2.fr/fr/nos-formations/master/humanites-numeriques/)
 - [Master Informatique](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m1-informatique/)
-	+ [Spécialité Business Intelligence et Big data (BI&BD)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-bi-bd/)
-	+ [Spécialité Conception et Intégration Multimédia (CIM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-conception-et-integration-multimedia/)
-		+ [Parcours Jeux vidéo - GAMAGORA](https://icom.univ-lyon2.fr/fr/nos-formations/master/jeux-video-gamagora/)
-		+ [Parcours Visualisation et Conception Infographique en Ligne (VCIeL)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-visualisation-et-conception-infographique-en-ligne/)
-	+ [Spécialité Data Mining (DM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m2-data-mining/)
-	+ [Spécialité Organisation et Protection des Systèmes d’Information de l'Entreprise (OPSIE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-opsie/)
-	+ Spécialité Statistique et Informatique
-		+ [Parcours Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
-		+ [Parcours franco-ukrainien Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
+	+ [Parcours Business Intelligence et Big data (BI&BD)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-bi-bd/)
+	+ [Parcours Conception et Intégration Multimédia (CIM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-conception-et-integration-multimedia/)
+		+ [Spécialité Jeux vidéo - GAMAGORA](https://icom.univ-lyon2.fr/fr/nos-formations/master/jeux-video-gamagora/)
+		+ [Spécialité Visualisation et Conception Infographique en Ligne (VCIeL)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-visualisation-et-conception-infographique-en-ligne/)
+	+ [Parcours Data Mining (DM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m2-data-mining/)
+	+ [Parcours Organisation et Protection des Systèmes d’Information de l'Entreprise (OPSIE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-opsie/)
+	+ Parcours Statistique et Informatique
+		+ [Spécialité Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
+		+ [Spécialité franco-ukrainienne Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
 
 ## Bretagne
 
