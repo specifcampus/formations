@@ -224,6 +224,34 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ## Ile de France
 
+### Cergy
+
+#### [EISTI](https://eisti.fr/)
+
+#### [Université de Cergy-pontoise](https://www.u-cergy.fr/fr/index.html)
+Le [site du département informatique](https://depinfo.u-cergy.fr/) a des informations complémentaires sur bon nombre des formations
+
+- DUT
+    + [DUT Métiers du multimédia et de l'internet](https://www.u-cergy.fr/fr/formations/schema-des-formations/diplome-universitaire-de-technologie-dut-CB/sciences-technologies-sante-STS/dut-metiers-du-multimedia-et-de-l-internet-program-b12-131.html)
+- Licence
+    + [Licence Informatique](https://www.u-cergy.fr/fr/formations/schema-des-formations/licence-lmd-XA/sciences-technologies-sante-STS/licence-informatique-program-e29-101.html)
+    + [Licence professionnelle Développeur web et multimédia](https://www.u-cergy.fr/fr/formations/schema-des-formations/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-developpeur-web-et-multimedia-program-developpement-mobile.html)
+    + [Licence Pro Réseaux et Sécurité](https://depinfo.u-cergy.fr/licences-pro/lprs-reseaux-et-securite)
+    + [Licence Pro Web et application mobiles](https://depinfo.u-cergy.fr/licences-pro/lpwam-web-et-applications-mobiles)
+    + [Licence Professionnelle Intégrée LPI-RIWS : Responsable Informatique Web & Système](https://depinfo.u-cergy.fr/licences-pro/lpi-riws)
+- Master Informatique & Ingénierie des Systèmes Complexes
+   + [parcours Électronique des systèmes autonomes](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-electronique-des-systemes-autonomes-program-f34-103.html)
+   + [parcours Images et masses de données multimédia](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-images-et-masses-de-donnees-multimedia-program-master-informatique-et-ingenierie-des-syst-mes-complexes-parcours-images-et-masses-de-donnees.html)
+   + [parcours Innovations technologiques et entrepreneuriat numérique](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-innovations-technologiques-et-entrepreneuriat-numerique-program-master-informatique-et-ingenierie-des-systemes-complexes-parcours-innovations-technologiques-et-entrepreneuriat-numerique.html)
+   + [parcours Intelligence artificielle et robotique](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-intelligence-artificielle-et-robotique-program-f33-103-2.html)
+   + [parcours Méthodes pour l'analyse des données complexes](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-methodes-pour-l-analyse-des-donnees-complexes-program-master-informatique-et-ingenierie-des-systemes-complexes-parcours-methodes-pour-l-analyse-des-donnees-complexes.html)
+   + [parcours Signal et télécommunications](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-signal-et-telecommunications-program-f33-105-2.html)
+   + [parcours Systèmes intelligents et communicants : réseaux et sécurité](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-systemes-intelligents-et-communicants-reseaux-et-securite-program-master-professionnel-informatique-et-ingenierie-des-systemes-complexes-parcours-reseaux-et-securite-rs.html)
+   + [parcours Systèmes intelligents et communicants : systèmes intelligents et distribués](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-systemes-intelligents-et-communicants-systemes-intelligents-et-distribues-program-master-professionnel-informatique-et-ingenierie-des-systemes-complexes-parcours-systemes-intelligents-distribues-sid.html)
+   + [parcours Systèmes intelligents et communicants : systèmes temps réel et communicants](https://www.u-cergy.fr/fr/formations/schema-des-formations/master-lmd-XB/sciences-technologies-sante-STS/master-informatique-et-ingenierie-des-systemes-complexes-parcours-systemes-intelligents-et-communicants-systemes-temps-reel-et-communicants-program-master-professionnel-informatique-et-ingenierie-des-systemes-complexes-parcours-systemes-temps-reels-et-communicants-strc.html)
+- Cursus Master en ingénierie
+    + [Cursus master en ingénierie Informatique : systèmes intelligents communicants](https://www.u-cergy.fr/fr/formations/schema-des-formations/cursus-master-en-ingenierie-cmi-ZY/sciences-technologies-sante-STS/cursus-master-en-ingenierie-informatique-systemes-intelligents-communicants-program-e29-134.html) - [Site Web](https://depinfo.u-cergy.fr/cmi/)
+
 ### Paris
 
 #### [Université Paris Descartes](http://odf.parisdescartes.fr/fr/index.html)
