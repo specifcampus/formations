@@ -355,6 +355,18 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [DUT Informatique](http://www.iut-blagnac.fr/spip.php?mot1)
 - [LP APSIO](http://www.iut-blagnac.fr/spip.php?mot1&id_article=2)
 
+##### _Université de Toulouse - Paul Sabatier_ (UT3), [Département Informatique](http://departement-informatique.univ-tlse3.fr)
+- [Licence Informatique](http://departement-informatique.univ-tlse3.fr/licence/licence-informatique)
+- [Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales (MIASHS)](http://departement-informatique.univ-tlse3.fr/licence/licence-miashs/)
+- [Master Informatique](http://departement-informatique.univ-tlse3.fr/master/master-informatique)
+- [Master Réseaux et Télécommunications](http://departement-informatique.univ-tlse3.fr/master/master-reseaux-et-telecoms)
+- [Master MIAGE](http://departement-informatique.univ-tlse3.fr/master/master-miage)
+- [Master Bio-Informatique](http://departement-informatique.univ-tlse3.fr/master/master-bio-informatique)
+	
+##### _Université de Toulouse - Paul Sabatier_ (UT3), Ecole d'Ingénieurs [UPSSITECH](https://upssitech.eu)
+- Spécialité [Systèmes Robotiques Interactifs](http://sri.univ-tlse.3.fr)
+- Spécialité [ Systèmes de Télécommunications et Réseaux Informatiques](https://www.upssitech.eu/formation/departement-systemes-de-telecommunications-reseaux-informatiques-stri)
+
 ## Pays de la Loire
 
 ### Nantes
