@@ -7,6 +7,23 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 + LP = Licence Professionnelle
 + DEUST = Diplôme d'études universitaires scientifiques et techniques
 
+## Auvergne-Rhône-Alpes
+
+### Lyon
+
+#### Université Lumière Lyon 2
+
+- [DUT Statistique et Informatique Décisionnelle (STID)](https://iut.univ-lyon2.fr/fr/formations/dut/statistique-et-informatique-decisionnelle/)
+- [Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales (MIASHS)](https://assp.univ-lyon2.fr/mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-689613.kjsp?RH=1394464241163&RF=1469021881304)
+	+ [Parcours Informatique et Data Science (IDS)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/l3-ids/)
+- [Master Informatique](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m1-informatique/)
+	+ [Spécialité Business Intelligence et Big data (BI&BD)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-bi-bd/)
+	+ [Spécialité Data Mining (DM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m2-data-mining/)
+	+ [Spécialité Organisation et Protection des Systèmes d’Information de l'Entreprise (OPSIE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-opsie/)
+	+ Spécialité Statistique et Informatique
+		+ [Parcours Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
+		+ [Parcours franco-ukrainien Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
+
 ## Bretagne
 
 ### Brest
