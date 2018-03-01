@@ -226,8 +226,6 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ### Cergy
 
-#### [EISTI](https://eisti.fr/)
-
 #### [Université de Cergy-pontoise](https://www.u-cergy.fr/fr/index.html)
 Le [site du département informatique](https://depinfo.u-cergy.fr/) a des informations complémentaires sur bon nombre des formations
 
