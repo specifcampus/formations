@@ -406,7 +406,16 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Formation [ville numérique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-ville-numerique-189042.kjsp?RH=1490195680756)
 
 #### Université de Nantes
+- [Licence Informatique](http://www.sciences-techniques.univ-nantes.fr/licence-informatique-2020506.kjsp?RH=1183051082942)
 
+- [Master Informatique](https://www.univ-nantes.fr/master-informatique/)
+	+ [Parcours Architecture Logicielle (ALMA)](https://www.univ-nantes.fr/master-informatique/)
+	+ [Parcours Apprentissage et Traitement Automatique de la Langue (ATAL)](https://www.univ-nantes.fr/master-informatique/)
+	+ [Parcours Data Science (DS)](https://www.univ-nantes.fr/master-informatique/)
+	+ [Parcours Optimisation en Recherche Opérationnelle (ORO)](http://oro.univ-nantes.fr/)
+	+ [Parcours Visual Computing (VICO)](https://www.univ-nantes.fr/master-informatique/)
+
+	
 ## Provence Alpes Côte d'Azur
 
 ### Nice
