@@ -405,7 +405,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Formation [sciences du numérique pour les sciences de la vie et de la santé](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-sciences-du-numerique-pour-les-sciences-de-la-vie-et-de-la-sante-186354.kjsp?RH=1490195680756)
 - Formation [ville numérique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-ville-numerique-189042.kjsp?RH=1490195680756)
 
-#### Université de Nantes
+#### [Université de Nantes](http://www.univ-nantes.fr/)
 - [Licence Informatique](http://www.sciences-techniques.univ-nantes.fr/licence-informatique-2020506.kjsp?RH=1183051082942)
 
 - [Master Informatique](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
