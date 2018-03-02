@@ -25,9 +25,9 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [Master Informatique (M1)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m1-informatique/)
 	+ [Parcours M2 Business Intelligence et Big data (BI&BD)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-bi-bd/)
 	+ [Parcours M2 Conception et Intégration Multimédia (CIM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-conception-et-integration-multimedia/)
-		+ [Spécialité Jeux vidéo - GAMAGORA](https://icom.univ-lyon2.fr/fr/nos-formations/master/jeux-video-gamagora/)
 		+ [Spécialité Visualisation et Conception Infographique en Ligne (VCIeL)](https://icom.univ-lyon2.fr/fr/nos-formations/master/infographie-multimedia/m2-visualisation-et-conception-infographique-en-ligne/)
 	+ [Parcours M2 Data Mining (DM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m2-data-mining/)
+	+ [Parcours M2 Jeux vidéo - GAMAGORA](https://icom.univ-lyon2.fr/fr/nos-formations/master/jeux-video-gamagora/)	
 	+ [Parcours M2 Organisation et Protection des Systèmes d’Information de l'Entreprise (OPSIE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-opsie/)
 	+ Parcours Statistique et Informatique
 		+ [Spécialité M2 Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
