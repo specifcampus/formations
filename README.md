@@ -16,6 +16,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 - [DUT Statistique et Informatique Décisionnelle (STID)](https://iut.univ-lyon2.fr/fr/formations/dut/statistique-et-informatique-decisionnelle/)
 - [Licence Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales (MIASHS)](https://assp.univ-lyon2.fr/mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-689613.kjsp)
 	+ [Parcours L3 Data Science (IDS)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/l3-ids/)
+- [LP Métiers de la communication : Chef de projet parcours Logiciels Libre et Conduite de Projet](https://icom.univ-lyon2.fr/fr/nos-formations/licence-professionnelle/lp-metiers-de-la-communication/)
 - DU Communication et Conception Infographique (DUCCI)
 	+ [1re année](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/infographie-multimedia/1ere-annee/)
 	+ [2e année](https://icom.univ-lyon2.fr/fr/nos-formations/diplome-universitaire/infographie-multimedia/2eme-annee/)
