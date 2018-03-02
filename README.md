@@ -408,12 +408,12 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 #### Université de Nantes
 - [Licence Informatique](http://www.sciences-techniques.univ-nantes.fr/licence-informatique-2020506.kjsp?RH=1183051082942)
 
-- [Master Informatique](https://www.univ-nantes.fr/master-informatique/)
-	+ [Parcours Architecture Logicielle (ALMA)](https://www.univ-nantes.fr/master-informatique/)
-	+ [Parcours Apprentissage et Traitement Automatique de la Langue (ATAL)](https://www.univ-nantes.fr/master-informatique/)
-	+ [Parcours Data Science (DS)](https://www.univ-nantes.fr/master-informatique/)
+- [Master Informatique](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
+	+ [Parcours Architecture Logicielle (ALMA)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
+	+ [Parcours Apprentissage et Traitement Automatique de la Langue (ATAL)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
+	+ [Parcours Data Science (DS)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
 	+ [Parcours Optimisation en Recherche Opérationnelle (ORO)](http://oro.univ-nantes.fr/)
-	+ [Parcours Visual Computing (VICO)](https://www.univ-nantes.fr/master-informatique/)
+	+ [Parcours Visual Computing (VICO)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
 
 	
 ## Provence Alpes Côte d'Azur
