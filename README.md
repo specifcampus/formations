@@ -407,7 +407,6 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Formation [ville numérique](https://www.ec-nantes.fr/ingenieur-generaliste/les-options-de-2e-et-3e-annees/option-ville-numerique-189042.kjsp?RH=1490195680756)
 
 #### [Université de Nantes](http://www.univ-nantes.fr/)
-- [Cursus Master en Ingénierie (CMI) Informatique et Mathématiques de l'Optimisation (OPT/IM)](http://www.sciences-techniques.univ-nantes.fr/formations/cursus-master-en-ingenierie-cmi--1485407.kjsp)
 
 - [Licence Informatique Parcours Maths Info, Parcours Informatique, Parcours MIAGE](http://www.sciences-techniques.univ-nantes.fr/licence-informatique-2020506.kjsp?RH=1183051082942)
 
@@ -417,6 +416,13 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [Parcours Data Science (DS)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
 	+ [Parcours Optimisation en Recherche Opérationnelle (ORO)](http://oro.univ-nantes.fr/)
 	+ [Parcours Visual Computing (VICO)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
+
+- [Cursus Master en Ingénierie (CMI) Informatique et Mathématiques de l'Optimisation (OPT/IM)](http://www.sciences-techniques.univ-nantes.fr/formations/cursus-master-en-ingenierie-cmi--1485407.kjsp)
+
+- [Ecole d'ingénieurs Polytech Nantes - Ingénieur Informatique](http://web.polytech.univ-nantes.fr/navigation/ingenieur-informatique-2022798.kjsp) 
+	+ [option Informatique Décisionnelle]
+	+ [option Gestion de Contenus Numériques]
+	+ [option Réseau-Système-Cloud] 
 
 	
 ## Provence Alpes Côte d'Azur
