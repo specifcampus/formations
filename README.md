@@ -152,8 +152,8 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ##### IUT Robert Schuman, Illkirch
 
-- [DUT Informatique](http://iutrs.unistra.fr/formation/dut/dut-informatique)
-- [LP Métiers de l'informatique : Applications web, parcours Conception et Développment d'Applications Distribuées](http://iutrs.unistra.fr/formation/licence-professionnelle/informatique/cdad)
+- [DUT Informatique](http://iutrs.unistra.fr/formation/dut/dut-informatique) ([Plaquette](http://iutrs.unistra.fr/images/Plaquettes/dut-informatique-plaqv2.pdf))
+- [LP Métiers de l'informatique : Applications web, parcours Conception et Développment d'Applications Distribuées](http://iutrs.unistra.fr/formation/licence-professionnelle/informatique/cdad) ([Plaquette](http://iutrs.unistra.fr/images/Plaquettes/LP-CDAD.pdf))
 
 ## Hauts de France
 
