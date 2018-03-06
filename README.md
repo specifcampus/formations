@@ -148,6 +148,13 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
   + [Parcours Développement des Applications Réparties (DAR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS42)
   + [Parcours Ingénierie de l'Image et de la Connaissance (IIC, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS43)
 
+#### Université de Strasbourg
+
+##### IUT Robert Schuman, Illkirch
+
+- [DUT Informatique](http://iutrs.unistra.fr/formation/dut/dut-informatique)
+- [LP Métiers de l'informatique : Applications web, parcours Conception et Développment d'Applications Distribuées](http://iutrs.unistra.fr/formation/licence-professionnelle/informatique/cdad)
+
 ## Hauts de France
 
 ### Amiens
