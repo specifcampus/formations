@@ -314,7 +314,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 
 #### [Université de Bordeaux](https://www.u-bordeaux.fr/)
 
-- [DUT](https://www.iut.u-bordeaux.fr/info/)
+- [DUT Informatique](https://www.iut.u-bordeaux.fr/info/)
 - LP
   - [Licence Pro DAWIN](https://www.u-bordeaux.fr/formation/PRLP_150/metiers-de-l-informatique-applications-web-developpeur-en-applications-web-et-innovation-numerique)
   - [Licence Pro DAGPI](https://www.u-bordeaux.fr/formation/PRLP_151/metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-developpement-d-applications-et-gestion-de-projet-informatique)
