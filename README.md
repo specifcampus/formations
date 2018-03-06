@@ -312,6 +312,24 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 
 ### Bordeaux
 
+#### [Université de Bordeaux](https://www.u-bordeaux.fr/)
+
+- [DUT Informatique](https://www.iut.u-bordeaux.fr/info/)
+- LP
+  - [LP DAWIN](https://www.u-bordeaux.fr/formation/PRLP_150/metiers-de-l-informatique-applications-web-developpeur-en-applications-web-et-innovation-numerique)
+  - [LP DAGPI](https://www.u-bordeaux.fr/formation/PRLP_151/metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-developpement-d-applications-et-gestion-de-projet-informatique)
+  - [LP ADSILLH](https://www.u-bordeaux.fr/formation/PRLP_92/metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux)
+- Licence
+  - [Licence Informatique](https://www.u-bordeaux.fr/formation/PRLIIN_110/licence-informatique)
+  - [Licence MIASHS](https://www.u-bordeaux.fr/formation/PRLIKH_140/mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales)
+- Master
+  - [Master informatique](https://www.u-bordeaux.fr/formation/PRMA_68/informatique)
+  - [Master informatique - CSI](https://mastercsi.labri.fr/)
+  - [Master MIAGE](https://www.u-bordeaux.fr/formation/PRMA_64/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage)
+  - [Master Bio-informatique](https://www.u-bordeaux.fr/formation/PRMA_74/bio-informatique)
+  - [Master Sciences cognitives](https://www.u-bordeaux.fr/formation/PRMA_45/sciences-cognitives)
+- [Doctorat en Informatique](https://ed-mi.u-bordeaux.fr/)
+
 #### [Bordeaux INP](https://www.bordeaux-inp.fr/fr)
 
 ##### [_Ecole d'Ingénieur Enseirb-Matmeca_](https://enseirb-matmeca.bordeaux-inp.fr/fr)
