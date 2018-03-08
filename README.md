@@ -442,6 +442,8 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [Parcours Optimisation en Recherche Opérationnelle (ORO)](http://oro.univ-nantes.fr/)
 	+ [Parcours Visual Computing (VICO)](http://www.sciences-techniques.univ-nantes.fr/master-informatique-2021620.kjsp)
 
+- [Master MIAGE](http://www.sciences-techniques.univ-nantes.fr/formations/masters/fiches-formations-master/master-methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-2021749.kjsp?RH=1183050943696)
+
 - [Cursus Master en Ingénierie (CMI) Informatique et Mathématiques de l'Optimisation (OPT/IM)](http://www.sciences-techniques.univ-nantes.fr/formations/cursus-master-en-ingenierie-cmi--1485407.kjsp)
 
 - [Ecole d'ingénieurs Polytech Nantes - Ingénieur Informatique](http://web.polytech.univ-nantes.fr/navigation/ingenieur-informatique-2022798.kjsp) 
