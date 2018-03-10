@@ -314,6 +314,17 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [Formation Eléctronique et Informatique parcours Informatique Industrielle](https://www.polytech.upmc.fr/fr/formation/electronique-et-informatique-industrielle-en-alternance) 
 	+ [Formation Informatique et Mathématiques Appliquées](https://www.polytech.upmc.fr/fr/formation/informatique-et-mathematiques-appliquees)
 	+ [Formation Robotique](https://www.polytech.upmc.fr/fr/formation/robotique)
+	
+#### [Université Paris 13](https://www.univ-paris13.fr/)
+- [License d'informatique](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/licence-lmd-XA/licence-informatique-program-gl4inf-116-2.html)
+- [Master d'informatique]()
+  + [Mention Informatique spécialité EID2 : Exploration informatique des données et décisionnel](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/master-lmd-XB/master-mention-informatique-specialite-exploration-informatique-des-donnees-et-decisionnel-program-gi4ei2d-116-2.html)
+  + [Mention Informatique spécialité PLS : Programmation et logiciels sûrs](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/master-lmd-XB/master-mention-informatique-specialite-programmation-et-logiciels-surs-program-gi4prls-116-2.html)
+  + [Mention Ingénierie et innovation en images et réseaux](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/master-lmd-XB/master-mention-ingenierie-et-innovation-en-images-et-reseaux-program-gi43ir-116-2.html)
+- [Ecole d'ingénieurs Sup Galilée](http://www.sup-galilee.univ-paris13.fr/index.php)
+  + [Spécialité Informatique](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-program-ginsi-116-2.html)
+  + [Spécialité Informatique et réseaux en apprentissage](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-en-apprentissage-program-ginsi2-116-2.html)
+  + [Spécialité Télécommunication et réseaux](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-telecommunications-et-reseaux-program-ginst-116-2.html)
 	 
 ## Nouvelle Aquitaine
 
