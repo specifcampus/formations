@@ -346,6 +346,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
   - [Master MIAGE](https://www.u-bordeaux.fr/formation/PRMA_64/methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage)
   - [Master Bio-informatique](https://www.u-bordeaux.fr/formation/PRMA_74/bio-informatique)
   - [Master Sciences cognitives](https://www.u-bordeaux.fr/formation/PRMA_45/sciences-cognitives)
+- [Cursus Master en Ingénierie (CMI) Ingénierie de la Statistique et Informatique (ISI)] (https://uf-mi.u-bordeaux.fr/sites/cmi-isi/)
 - [Doctorat en Informatique](https://ed-mi.u-bordeaux.fr/)
 
 #### [Bordeaux INP](https://www.bordeaux-inp.fr/fr)
