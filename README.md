@@ -9,6 +9,129 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 
 ## Auvergne-Rhône-Alpes
 
+### Grenoble
+#### Université Grenoble Alpes (UGA)
+voir http://formations.univ-grenoble-alpes.fr
+
+##### IUT1
+###### DUT Génie électrique et informatique industrielle
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-technologies-sante-STS/dut-genie-electrique-et-informatique-industrielle-program-dut-genie-electrique-et-informatique-industrielle.html
+- parcours classique
+- parcours alternance
+
+###### DUT Réseaux et télécommunications
+- parcours classique
+- parcours alternance
+
+##### IUT2
+###### DUT Informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-technologies-sante-STS/dut-informatique-grenoble-program-dut-informatique-2.html
+###### parcours classique
+###### parcours année spéciale
+
+
+###### DUT Statistique et informatique décisionnelle (STID)
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-humaines-et-sociales-SHS/dut-statistique-et-informatique-decisionnelle-stid-program-dut-statistique-et-informatique-decisionnelle-stid.html
+
+##### Licences professionnelles métiers de l'informatique
+###### Métiers des réseaux informatiques et télécommunications
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-program-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-2.html
+
+###### Conception, développement et test de logiciels
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-program-licence-professionnelle-metiers-de-l-informatique-developpement-d-applications.html
+
+###### Systèmes d'information et gestion des données
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-systemes-d-information-et-gestion-des-donnees-program-licence-professionnelle-metiers-de-l-informatique-systemes-d-information-et-gestion-des-donnees.html
+###### Parcours Systèmes d'Information - Méthodes et outils
+###### Parcours Big-Data
+
+###### Administration et sécurité des systèmes et des réseaux
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux-program-licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux.html
+
+###### Applications web
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-applications-web-program-licence-professionnelle-metiers-de-l-informatique-applications-web.html
+
+##### Licences professionnelles métiers de l'électronique
+###### Communication, systèmes embarqués
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-electronique-communication-systemes-embarques-program-licence-professionnelle-metiers-de-l-electronique-communication-systemes-embarques.html
+
+##### Licence Informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-XA/sciences-technologies-sante-STS/licence-informatique-program-licence-informatique.html
+
+###### Parcours Informatique
+###### Parcours Mathématiques et informatique
+###### Parcours MIAGE
+
+##### Licence Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS)
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-XA/droit-economie-gestion-DEG/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-program-licence-mathematiques-informatique-appliquees-et-sciences-humaines-et-sociales.html
+
+##### Master Informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technologies-sante-STS/master-informatique-program-master-informatique.html
+
+Ce master est co-habilité avec Grenoble-INP
+
+###### Parcours international MoSIG
+###### Parcours génie informatique
+###### Parcours génie informatique en alternance
+###### Parcours recherche opérationnelle ORCO
+###### Parcours cybersécurité
+###### Parcours cybersécurité et informatique légale
+###### Parcours Compétences Complémentaires en Informatique (CCI)
+
+##### Master Mathématiques et informatique appliquées aux sciences humaines et sociales (MIASHS)
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-humaines-et-sociales-SHS/master-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-program-master-mathematiques-informatique-appliquees-et-sciences-humaines-et-sociales.html
+
+##### Master Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technologies-sante-STS/master-methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-program-master-miage.html
+
+##### Master Traitement du signal et des images
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technologies-sante-STS/master-traitement-du-signal-et-des-images-program-x-master-traitement-du-signal-et-des-images.html
+
+##### Magistère d'informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/magistere-FE/sciences-technologies-sante-STS/magistere-d-informatique-program-diplome-d-universite-magistere-informatique.html
+
+##### Diplôme d'Université Informatique et sciences du numérique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/du-diplome-d-universite-DU/sciences-technologies-sante-STS/diplome-d-universite-informatique-et-sciences-du-numerique-program-diplome-d-universite-informatique-et-sciences-du-numerique.html
+
+
+##### Ingénieur de Polytech Grenoble
+###### Cycle préparatoire des Ecoles d'Ingénieurs de Polytech
+
+###### spécialité Réseaux informatiques et communication multimédia
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia-program-ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia.html
+
+###### spécialité Electronique et informatique industrielle
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-electronique-et-informatique-industrielle-program-ingenieur-de-polytech-grenoble-specialite-electronique-et-informatique-industrielle.html
+
+###### spécialité Informatique et Electronique des Systèmes
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-informatique-et-electronique-des-systemes-program-ingenieur-de-polytech-grenoble-specialite-informatique-industrielle-et-instrumentation.html
+
+##### Certification C2i
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/certification-11/droit-economie-gestion-DEG/certification-c2i-program-certification-c2i-niveau-1.html
+
+##### Doctorat
+http://edmstii.ujf-grenoble.fr/
+
+##### Habilitation à diriger les recherches
+http://www.adum.fr/as/ed/page.pl?site=edmstii&page=inscriptionHDR
+
+#### Grenoble-INP
+(Nom officiel: Institut polytechnique de Grenoble)
+
+##### Prépa des INP (CPP)
+http://cpp-prepa.grenoble-inp.fr
+
+##### Ingénieurs ENSIMAG
+###### Informatique et systèmes d'information (apprentissage)
+###### Ingénierie des systèmes d'information (ISI)
+###### Systèmes Embarqués et Objets Connectés (Seoc)
+
+##### Masters
+communs avec Université Grenoble Alpes, voir celle-ci
+
+##### Doctorat
+communs avec Université Grenoble Alpes, voir celle-ci
+
 ### Lyon
 
 #### Université Lumière Lyon 2
@@ -33,6 +156,37 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 	+ Parcours Statistique et Informatique
 		+ [Spécialité M2 Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
 		+ [Spécialité M1-M2 franco-ukrainienne Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
+
+### Valence
+#### Université Grenoble Alpes
+##### IUT
+###### DUT informatique
+https://www.iut-valence.fr/nos-formations/dut/dut-informatique-168321.kjsp?RH=1487351143767
+
+###### DUT Réseaux et Télécommunications
+https://www.iut-valence.fr/nos-formations/dut/dut-reseaux-et-telecoms-247966.kjsp?RH=1487351143767
+
+##### Licence informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-XA/sciences-technologies-sante-STS/licence-informatique-program-licence-informatique.html
+###### Parcours Informatique
+###### Parcours Mathématiques et informatique
+###### Parcours MIAGE
+
+##### Licences professionnelles Métiers de l'informatique
+###### conception, développement et tests de logiciels
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-tests-de-logiciels-valence-program-licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-tests-de-logiciels-casir-valence.html
+Codage d'Applications et de Systèmes Informatiques Répartis (CASIR)
+
+##### Licence professionnelle Métiers des réseaux informatiques et télécommunications
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-valence-program-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.html
+Administration et sécurité des réseaux (ASUR)
+
+#### Grenoble-INP
+##### Prépa des INP
+##### Ingénieurs ESISAR
+###### Informatique et réseaux
+###### Électronique, informatique et systèmes
+(possible par apprentissage)
 
 ## Bretagne
 
