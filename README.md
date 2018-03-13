@@ -109,8 +109,28 @@ http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-dipl
 ##### Certification C2i
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/certification-11/droit-economie-gestion-DEG/certification-c2i-program-certification-c2i-niveau-1.html
 
+##### Doctorat
+http://edmstii.ujf-grenoble.fr/
+
+##### Habilitation à diriger les recherches
+http://www.adum.fr/as/ed/page.pl?site=edmstii&page=inscriptionHDR
+
 #### Grenoble-INP
 (Nom officiel: Institut polytechnique de Grenoble)
+
+##### Prépa des INP (CPP)
+http://cpp-prepa.grenoble-inp.fr
+
+##### Ingénieurs ENSIMAG
+###### Informatique et systèmes d'information (apprentissage)
+###### Ingénierie des systèmes d'information (ISI)
+###### Systèmes Embarqués et Objets Connectés (Seoc)
+
+##### Masters
+communs avec Université Grenoble Alpes, voir celle-ci
+
+##### Doctorat
+communs avec Université Grenoble Alpes, voir celle-ci
 
 ### Lyon
 
@@ -160,6 +180,13 @@ Codage d'Applications et de Systèmes Informatiques Répartis (CASIR)
 ##### Licence professionnelle Métiers des réseaux informatiques et télécommunications
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-valence-program-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.html
 Administration et sécurité des réseaux (ASUR)
+
+#### Grenoble-INP
+##### Prépa des INP
+##### Ingénieurs ESISAR
+###### Informatique et réseaux
+###### Électronique, informatique et systèmes
+(possible par apprentissage)
 
 ## Bretagne
 
