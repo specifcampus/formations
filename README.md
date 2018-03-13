@@ -13,36 +13,47 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 #### Université Grenoble Alpes (UGA)
 voir http://formations.univ-grenoble-alpes.fr
 
-##### DUT Informatique (Grenoble)
+##### IUT1
+###### DUT Génie électrique et informatique industrielle
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-technologies-sante-STS/dut-genie-electrique-et-informatique-industrielle-program-dut-genie-electrique-et-informatique-industrielle.html
+- parcours classique
+- parcours alternance
+
+###### DUT Réseaux et télécommunications
+- parcours classique
+- parcours alternance
+
+##### IUT2
+###### DUT Informatique
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-technologies-sante-STS/dut-informatique-grenoble-program-dut-informatique-2.html
 ###### parcours classique
 ###### parcours année spéciale
 
-##### DUT Génie électrique et informatique industrielle
-http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-technologies-sante-STS/dut-genie-electrique-et-informatique-industrielle-program-dut-genie-electrique-et-informatique-industrielle.html
-###### parcours classique
-###### parcours alternance
 
-##### DUT Statistique et informatique décisionnelle (STID)
+###### DUT Statistique et informatique décisionnelle (STID)
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/dut-diplome-universitaire-de-technologie-CB/sciences-humaines-et-sociales-SHS/dut-statistique-et-informatique-decisionnelle-stid-program-dut-statistique-et-informatique-decisionnelle-stid.html
 
-##### Licence professionnelle Métiers des réseaux informatiques et télécommunications
+##### Licences professionnelles métiers de l'informatique
+###### Métiers des réseaux informatiques et télécommunications
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-program-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-2.html
 
-##### Licence professionnelle Métiers de l'informatique : conception, développement et test de logiciels, Services Mobiles et Interface Nomade
+###### Conception, développement et test de logiciels
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-test-de-logiciels-program-licence-professionnelle-metiers-de-l-informatique-developpement-d-applications.html
 
-##### Licence professionnelle Métiers de l'informatique : systèmes d'information et gestion des données
+###### Systèmes d'information et gestion des données
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-systemes-d-information-et-gestion-des-donnees-program-licence-professionnelle-metiers-de-l-informatique-systemes-d-information-et-gestion-des-donnees.html
-
-##### Licence professionnelle Métiers de l'informatique : administration et sécurité des systèmes et des réseaux
-http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux-program-licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux.html
-
-##### Licence professionnelle Métiers de l'informatique : applications web
-http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-applications-web-program-licence-professionnelle-metiers-de-l-informatique-applications-web.html
-
 ###### Parcours Systèmes d'Information - Méthodes et outils
 ###### Parcours Big-Data
+
+###### Administration et sécurité des systèmes et des réseaux
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux-program-licence-professionnelle-metiers-de-l-informatique-administration-et-securite-des-systemes-et-des-reseaux.html
+
+###### Applications web
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-applications-web-program-licence-professionnelle-metiers-de-l-informatique-applications-web.html
+
+##### Licences professionnelles métiers de l'électronique
+###### Communication, systèmes embarqués
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-electronique-communication-systemes-embarques-program-licence-professionnelle-metiers-de-l-electronique-communication-systemes-embarques.html
 
 ##### Licence Informatique
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-XA/sciences-technologies-sante-STS/licence-informatique-program-licence-informatique.html
@@ -73,20 +84,31 @@ http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-humaine
 ##### Master Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE)
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technologies-sante-STS/master-methodes-informatiques-appliquees-a-la-gestion-des-entreprises-miage-program-master-miage.html
 
+##### Master Traitement du signal et des images
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technologies-sante-STS/master-traitement-du-signal-et-des-images-program-x-master-traitement-du-signal-et-des-images.html
+
 ##### Magistère d'informatique
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/magistere-FE/sciences-technologies-sante-STS/magistere-d-informatique-program-diplome-d-universite-magistere-informatique.html
 
 ##### Diplôme d'Université Informatique et sciences du numérique
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/du-diplome-d-universite-DU/sciences-technologies-sante-STS/diplome-d-universite-informatique-et-sciences-du-numerique-program-diplome-d-universite-informatique-et-sciences-du-numerique.html
 
-##### Ingénieur de Polytech Grenoble spécialité Réseaux informatiques et communication multimédia
+##### Cycle préparatoire des Ecoles d'Ingénieurs de Polytech
+
+
+##### Ingénieur de Polytech Grenoble
+
+###### spécialité Réseaux informatiques et communication multimédia
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia-program-ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia.html
 
-##### Ingénieur de Polytech Grenoble spécialité Electronique et informatique industrielle
+###### spécialité Electronique et informatique industrielle
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-electronique-et-informatique-industrielle-program-ingenieur-de-polytech-grenoble-specialite-electronique-et-informatique-industrielle.html
 
-##### Ingénieur de Polytech Grenoble spécialité Informatique et Electronique des Systèmes
+###### spécialité Informatique et Electronique des Systèmes
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-informatique-et-electronique-des-systemes-program-ingenieur-de-polytech-grenoble-specialite-informatique-industrielle-et-instrumentation.html
+
+##### Certification C2i
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/certification-11/droit-economie-gestion-DEG/certification-c2i-program-certification-c2i-niveau-1.html
 
 #### Grenoble-INP
 (Nom officiel: Institut polytechnique de Grenoble)
