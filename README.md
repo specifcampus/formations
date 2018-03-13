@@ -93,10 +93,9 @@ http://formations.univ-grenoble-alpes.fr/fr/catalogue/magistere-FE/sciences-tech
 ##### Diplôme d'Université Informatique et sciences du numérique
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/du-diplome-d-universite-DU/sciences-technologies-sante-STS/diplome-d-universite-informatique-et-sciences-du-numerique-program-diplome-d-universite-informatique-et-sciences-du-numerique.html
 
-##### Cycle préparatoire des Ecoles d'Ingénieurs de Polytech
-
 
 ##### Ingénieur de Polytech Grenoble
+###### Cycle préparatoire des Ecoles d'Ingénieurs de Polytech
 
 ###### spécialité Réseaux informatiques et communication multimédia
 http://formations.univ-grenoble-alpes.fr/fr/catalogue/cycle-preparatoire-et-diplome-d-ingenieur-XC/sciences-technologies-sante-STS/ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia-program-ingenieur-de-polytech-grenoble-specialite-reseaux-informatiques-et-communication-multimedia.html
@@ -137,6 +136,30 @@ http://formations.univ-grenoble-alpes.fr/fr/catalogue/certification-11/droit-eco
 	+ Parcours Statistique et Informatique
 		+ [Spécialité M2 Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
 		+ [Spécialité M1-M2 franco-ukrainienne Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
+
+### Valence
+#### Université Grenoble Alpes
+##### IUT
+###### DUT informatique
+https://www.iut-valence.fr/nos-formations/dut/dut-informatique-168321.kjsp?RH=1487351143767
+
+###### DUT Réseaux et Télécommunications
+https://www.iut-valence.fr/nos-formations/dut/dut-reseaux-et-telecoms-247966.kjsp?RH=1487351143767
+
+##### Licence informatique
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-XA/sciences-technologies-sante-STS/licence-informatique-program-licence-informatique.html
+###### Parcours Informatique
+###### Parcours Mathématiques et informatique
+###### Parcours MIAGE
+
+##### Licences professionnelles Métiers de l'informatique
+###### conception, développement et tests de logiciels
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-tests-de-logiciels-valence-program-licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-tests-de-logiciels-casir-valence.html
+Codage d'Applications et de Systèmes Informatiques Répartis (CASIR)
+
+##### Licence professionnelle Métiers des réseaux informatiques et télécommunications
+http://formations.univ-grenoble-alpes.fr/fr/catalogue/licence-professionnelle-DP/sciences-technologies-sante-STS/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications-valence-program-licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications.html
+Administration et sécurité des réseaux (ASUR)
 
 ## Bretagne
 
