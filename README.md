@@ -71,6 +71,16 @@ http://formations.univ-grenoble-alpes.fr/fr/catalogue/master-XB/sciences-technol
 Ce master est co-habilité avec Grenoble-INP
 
 ###### Parcours international MoSIG
+http://mosig.imag.fr/
+7 parcours M2:
+- Advanced Information Systems & Software Engineering (AISSE),
+- Artificial Intelligence and the Web (AIW),
+- Data Science (DS),
+- Graphics, Vision, Robotics (GVR),
+- High-confidence Embedded and Cyberphysical Systems (HECS), hecs.imag.fr
+- Parallel, Distributed & Embedded Systems (PDES),
+- Ubiquitous and Interactive Systems (UIS),
+
 ###### Parcours génie informatique
 ###### Parcours génie informatique en alternance
 ###### Parcours recherche opérationnelle ORCO
