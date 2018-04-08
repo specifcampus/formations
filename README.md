@@ -539,6 +539,8 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
     + [Parcours MSI](http://informatique-fds.edu.umontpellier.fr/parcours-mi-mathematique-informatique/) – Mathématiques et Science Informatique
     + [Parcours MIT](http://informatique-fds.edu.umontpellier.fr/parcours-mit-informatique-theorique/) – Informatique théorique
 - Master MEEF : préparation au CAPES de mathématiques option informatique
+- [Master Sciences et Numérique pour la Santé](http://sns.edu.umontpellier.fr/fr/master-sciences-numerique-pour-la-sante-montpellier/) :
+    + [Parcours BCD](http://sns.edu.umontpellier.fr/fr/master-sciences-numerique-pour-la-sante-montpellier/bcd/) – Bioinformatique, Connaissances, Données
 
 ##### Université Paul-Valery Montpellier
 
