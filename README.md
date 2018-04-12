@@ -256,6 +256,7 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
     + Parcours conception logicielle
     + Parcours gestion et analyse de données
     + Parcours informatique embarquée
+- [Cursus Master en Ingénierie Informatique](http://sfa.univ-poitiers.fr/formation/cursus-master-en-ingenierie-cmi--1269071.kjsp?RH=1268644504943)
 - Master MEEF : préparation au CAPES de mathématiques option informatique
 	
 ## Occitanie
