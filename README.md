@@ -279,7 +279,12 @@ Administration et sécurité des réseaux (ASUR)
 
 ##### Saint-Dié-des-Vosges
 
-- [DUT Informatique](http://iutsd.univ-lorraine.fr/departement-informatique/)
+- [DUT Informatique](http://iutsd.univ-lorraine.fr/departement-informatique/dut-info/)
+    + parcours classique
+    + parcours images numériques
+- [LP IG3D - Techniques du son et de l’image – infographie 3D](http://iutsd.univ-lorraine.fr/lp-isn/)
+- [LP AMIO - Applications web – applications mobiles et internet des objets](http://iutsd.univ-lorraine.fr/lp-applications-web-applications-mobiles-et-internet-des-objetslp-amio/)
+
 
 #### Université de Reims Champagne-Ardenne
 
