@@ -1,7 +1,7 @@
 # formations
 Catalogue participatif des formations en informatique dans l'ESR public français.
 
-> Pour ajouter votre formation à cette liste, éditer cette page et créer une "Pull Request".
+> Pour ajouter une formation à cette liste, éditer cette page et créer une "Pull Request".
 
 + DUT = Diplôme Universitaire de Technologie
 + LP = Licence Professionnelle
