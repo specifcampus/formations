@@ -7,9 +7,48 @@ Catalogue participatif des formations en informatique dans l'ESR public françai
 + LP = Licence Professionnelle
 + DEUST = Diplôme d'études universitaires scientifiques et techniques
 
-## Auvergne-Rhône-Alpes
+# Navigation
+* [Auvergne-Rhône-Alpes](#Auvergne-Rhone-Alpes)
+	* [Grenoble](#Grenoble)
+	* [Lyon](#Lyon)
+	* [Valence](#Valence)
+* [Bretagne](#Bretagne)
+	* [Brest](#Brest)
+	* [Lannion](#Lannion)
+	* [Vannes](#Vannes)
+	* [Rennes](#Rennes)
+* [Grand Est](#Grand-Est)
+	* [Lorraine](#Lorraine)
+		* [Metz](#Metz)
+		* [Nancy](#Nancy)
+		* [Saint Dié des Vosges](#Saint-Die-des-Vosges)
+	* [Reims Champagne-Ardenne](#Reims-Champagne-Ardenne)
+	* [Strasbourg](#Strasbourg)
+* [Hauts de France](#Hauts-de-France)
+	* [Amiens](#Amiens)
+	* [Calais](#Calais)
+	* [Lens](#Lens)
+	* [Lille](#Lille)
+	* [Valenciennes](#Valenciennes)
+* [Ile de France](#Ile-de-France)
+	* [Cergy](#Cergy)
+	* [Paris](#Paris)
+* [Nouvelle Aquitaine](#Nouvelle-Aquitaine)
+	* [Bordeaux](#Bordeaux)
+	* [Limoges](#Limoges)
+	* [Poitiers](#Poitiers)
+* [Occitanie](#Occitanie)
+	* [Montpellier](#Montpellier)
+	* [Toulouse](#Toulouse)
+* [Pays de la Loire](#Pays-de-la-Loire)
+	* [Nantes](#Nantes)
+* [Provence Alpes Côte d'Azur](#Provence-Alpes-Cote-dAzur)
+	* [Nice](#Nice)
+	* [Toulon](#Toulon)
 
-### Grenoble
+## Auvergne-Rhône-Alpes <a id = "Auvergne-Rhone-Alpes"></a>
+
+### Grenoble <a id = "Grenoble"></a>
 #### Université Grenoble Alpes (UGA)
 voir http://formations.univ-grenoble-alpes.fr
 
@@ -119,7 +158,7 @@ communs avec Université Grenoble Alpes, voir celle-ci
 ##### Doctorat
 communs avec Université Grenoble Alpes, voir celle-ci
 
-### Lyon
+### Lyon <a id = "Lyon"></a>
 
 #### Université Lumière Lyon 2
 
@@ -144,7 +183,7 @@ communs avec Université Grenoble Alpes, voir celle-ci
 		+ [Spécialité M2 Statistique et Informatique pour la Science des donnéEs (SISE)](https://dis.univ-lyon2.fr/fr/nos-formations/formations-initiales/m2-sise/)
 		+ [Spécialité M1-M2 franco-ukrainienne Informatique et Data Science pour le Management (IDSM)](https://icom.univ-lyon2.fr/fr/nos-formations/master/informatique-statistique/m1-m2-informatique-et-data-science-pour-le-management/)
 
-### Valence
+### Valence <a id = "Valence"></a>
 #### Université Grenoble Alpes
 ##### IUT
 ###### DUT informatique
@@ -175,9 +214,9 @@ Administration et sécurité des réseaux (ASUR)
 ###### Électronique, informatique et systèmes
 (possible par apprentissage)
 
-## Bretagne
+## Bretagne <a id = "Bretagne"></a>
 
-### Brest
+### Brest <a id = "Brest"></a>
 
 #### Université de Bretagne Occidentale
 
@@ -196,7 +235,7 @@ Administration et sécurité des réseaux (ASUR)
 - [Diplôme Ingénieur spécialité informatique et réseaux](http://www.imt-atlantique.fr/fr/formation/ingenieur-generaliste/admission-sur-concours-commun-mines-ponts)
 - [Diplôme Ingenieur par apprentissage spécialisé informatique, réseaux, télécom](http://www.imt-atlantique.fr/fr/formation/ingenieur-par-apprentissage/ingenieurs-specialite-informatique-reseaux-telecoms)
 
-### Lannion
+### Lannion <a id = "Lannion"></a>
 
 - [DUT informatique](http://www.iut-lannion.fr/lyceens-etudiants/choisir-un-dut/dut-informatique)
 - [Licence professionnelle : Administration et Gestion des Systèmes et Réseaux informatiques](http://www.iut-lannion.fr/lyceens-etudiants/choisir-une-licence-pro/lp-agsri)
@@ -206,7 +245,7 @@ Administration et sécurité des réseaux (ASUR)
  
 - [Diplôme Ingénieur en informatique](http://www.enssat.fr/fr_FR/formations/formation-ingenieur-informatique)
 	
-### Vannes
+### Vannes <a id = "Vannes"></a>
 
 #### Université de Bretagne Sud
 
@@ -217,7 +256,7 @@ Administration et sécurité des réseaux (ASUR)
 	+ [parcours AIDN: Applications Interactives et Données Numériques](http://www-informatique.univ-ubs.fr/master-info/aidn.shtml)
 - [Diplôme Ingenieur en informatique de Confiance: cybersécurité du logiciel](http://www.univ-ubs.fr/fr/formation-initiale-continue/formations-2017-2018/diplome-d-ingenieur-DI/sciences-technologies-sante-STS/diplome-d-ingenieur-informatique-program-iinf00-207.html)
 
-### Rennes
+### Rennes <a id = "Rennes"></a>
 
 #### Université de Rennes 1 (ISTIC)
 
@@ -252,15 +291,15 @@ Administration et sécurité des réseaux (ASUR)
 
 
 
-## Grand Est
+## Grand Est <a id = "Grand-Est"></a>
 
-#### Université de Lorraine
+#### Université de Lorraine <a id = "Lorraine"></a>
 
-##### Metz
+##### Metz <a id = "Metz"></a>
 
 - [DUT Informatique](https://www.iut-metz.univ-lorraine.fr/index.php/les-formations/le-dut/dut-info)
 
-##### Nancy
+##### Nancy <a id = "Nancy"></a>
 
 - [DUT Informatique](http://iut-charlemagne.univ-lorraine.fr/content/departement-informatique)
 - [DUT Réseaux et Télécom](http://iutnb.univ-lorraine.fr/fr/content/rt-dut)
@@ -277,7 +316,7 @@ Administration et sécurité des réseaux (ASUR)
 	+ [Spécialité LE, Logiciel Embarqué](http://telecomnancy.univ-lorraine.fr/fr/formation/le)	
 	+ [Spécialité SIE, Systèmes d'Information d'Entreprise](http://telecomnancy.univ-lorraine.fr/fr/formation/sie)
 
-##### Saint-Dié-des-Vosges
+##### Saint Dié des Vosges <a id = "Saint-Die-des-Vosges"></a>
 
 - [DUT Informatique](http://iutsd.univ-lorraine.fr/departement-informatique/dut-info/)
     + parcours classique
@@ -286,7 +325,7 @@ Administration et sécurité des réseaux (ASUR)
 - [LP AMIO - Applications web – applications mobiles et internet des objets](http://iutsd.univ-lorraine.fr/lp-applications-web-applications-mobiles-et-internet-des-objetslp-amio/)
 
 
-#### Université de Reims Champagne-Ardenne
+#### Université de Reims Champagne-Ardenne <a id = "Reims-Champagne-Ardenne"></a>
 
 - [DUT Informatique (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS6/PRDI3TS60)
 - [DUT Réseaux Télécom (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS8/PRDI3TS80)
@@ -299,16 +338,16 @@ Administration et sécurité des réseaux (ASUR)
   + [Parcours Développement des Applications Réparties (DAR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS42)
   + [Parcours Ingénierie de l'Image et de la Connaissance (IIC, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS43)
 
-#### Université de Strasbourg
+#### Université de Strasbourg <a id = "Strasbourg"></a>
 
 ##### IUT Robert Schuman, Illkirch
 
 - [DUT Informatique](http://iutrs.unistra.fr/formation/dut/dut-informatique) ([Plaquette](http://iutrs.unistra.fr/images/Plaquettes/dut-informatique-plaqv2.pdf))
 - [LP Métiers de l'informatique : Applications web, parcours Conception et Développment d'Applications Distribuées](http://iutrs.unistra.fr/formation/licence-professionnelle/informatique/cdad) ([Plaquette](http://iutrs.unistra.fr/images/Plaquettes/LP-CDAD.pdf))
 
-## Hauts de France
+## Hauts de France <a id = "Hauts-de-France"></a>
 
-### Amiens
+### Amiens <a id = "Amiens"></a>
 
 - [DUT Informatique (2 ans)](http://info.iut-amiens.fr/cours/dut-informatique-en-deux-ans/)
 - [DUT Informatique en année spéciale (1 an)](http://info.iut-amiens.fr/cours/dut-informatique-en-annee-speciale/)
@@ -324,7 +363,7 @@ Administration et sécurité des réseaux (ASUR)
     + Informatique et Instrumentation pour la Biologie et la Santé
 
 
-### Calais
+### Calais <a id = "Calais"></a>
 
 - [DUT Informatique](http://www.iut.univ-littoral.fr/wp/dut/info-informatique/)
 - [Licence Informatique](http://dpt-info.univ-littoral.fr/wiki/Licence:Accueil)
@@ -332,7 +371,7 @@ Administration et sécurité des réseaux (ASUR)
     + [Ingénierie du Logiciel Libre](http://dpt-info.univ-littoral.fr/wiki/I2L:Accueil),
     + [Ingénierie des Systèmes Informatiques Distribués](http://dpt-info.univ-littoral.fr/wiki/ISIDIS:Accueil)
 
-### Lens
+### Lens <a id = "Lens"></a>
 
 #### [Université d'Artois](http://informatique.univ-artois.fr/)
 
@@ -347,7 +386,7 @@ Administration et sécurité des réseaux (ASUR)
     + Ingénierie Logicielle pour les Jeux
     + Intelligence Artificielle
 
-### Lille
+### Lille <a id = "Lille"></a>
 
 #### [Université de Lille](https://informatique.univ-lille1.fr)
 
@@ -382,7 +421,7 @@ Administration et sécurité des réseaux (ASUR)
 #### [_Institut Mine Télécom_ (IMT) Lille Douai](http://www.telecom-lille.fr)
 
 
-### Valenciennes
+### Valenciennes <a id = "Valenciennes"></a>
 
 #### [Université de Valenciennes](https://www.univ-valenciennes.fr)
 
@@ -390,9 +429,9 @@ Administration et sécurité des réseaux (ASUR)
 - [Master Technologies Nouvelles des Systèmes d’Information (TNSI)](http://formations.univ-valenciennes.fr/cdm/subProgram/FR_RNE_0593279U_PR_SOF-7415/FR_RNE_0593279U_PR_SOF-7417)
 - [Master Cyber-Défense et Sécurité de l’Information (CDSI)](http://formations.univ-valenciennes.fr/cdm/program/FR_RNE_0593279U_PR_SOF-15674)
 
-## Ile de France
+## Ile de France <a id = "Ile-de-France"></a>
 
-### Cergy
+### Cergy <a id = "Cergy"></a>
 
 #### [Université de Cergy-pontoise](https://www.u-cergy.fr/fr/index.html)
 Le [site du département informatique](https://depinfo.u-cergy.fr/) a des informations complémentaires sur bon nombre des formations
@@ -418,7 +457,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Cursus Master en ingénierie
     + [Cursus master en ingénierie Informatique : systèmes intelligents communicants](https://www.u-cergy.fr/fr/formations/schema-des-formations/cursus-master-en-ingenierie-cmi-ZY/sciences-technologies-sante-STS/cursus-master-en-ingenierie-informatique-systemes-intelligents-communicants-program-e29-134.html) - [Site Web](https://depinfo.u-cergy.fr/cmi/)
 
-### Paris
+### Paris <a id = "Paris"></a>
 
 #### [Université Paris Descartes](http://odf.parisdescartes.fr/fr/index.html)
 - [Licence d'informatique](http://www.mi.parisdescartes.fr/formations/licence-dinformatique/)
@@ -477,9 +516,9 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
   + [Spécialité Informatique et réseaux en apprentissage](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-en-apprentissage-program-ginsi2-116-2.html)
   + [Spécialité Télécommunication et réseaux](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-telecommunications-et-reseaux-program-ginst-116-2.html)
 	 
-## Nouvelle Aquitaine
+## Nouvelle Aquitaine <a id = "Nouvelle-Aquitaine"></a>
 
-### Bordeaux
+### Bordeaux <a id = "Bordeaux"></a>
 
 #### [Université de Bordeaux](https://www.u-bordeaux.fr/)
 
@@ -508,7 +547,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Formation [télécommunications](https://enseirb-matmeca.bordeaux-inp.fr/fr/telecommunications)
 - Formation [réseaux et systèmes d'information](https://enseirb-matmeca.bordeaux-inp.fr/fr/reseaux-et-systemes-d-information)
 
-### Limoges
+### Limoges <a id = "Limoges"></a>
 
 #### [IUT du Limousin](https://www.iut.unilim.fr/)
 - [DUT Informatique](http://www.iut.unilim.fr/les-formations/dut/informatique/)
@@ -522,7 +561,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - [Master 2 Informatique - CRYPTIS](https://www.sciences.unilim.fr/informatique/master-cryptis/)
 - [Doctorat en Informatique](http://s2i.ed.univ-poitiers.fr/)
 
-### Poitiers
+### Poitiers <a id = "Poitiers"></a>
 
 #### [Université de Poitiers - Faculté des Sciences](http://sfa.univ-poitiers.fr/)
 
@@ -535,9 +574,9 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - [Cursus Master en Ingénierie Informatique](http://sfa.univ-poitiers.fr/formation/cursus-master-en-ingenierie-cmi--1269071.kjsp?RH=1268644504943)
 - Master MEEF : préparation au CAPES de mathématiques option informatique
 	
-## Occitanie
+## Occitanie <a id = "Occitanie"></a>
 
-### Montpellier
+### Montpellier <a id = "Montpellier"></a>
 
 ##### Université de Montpellier
 
@@ -558,7 +597,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - [Licence MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs)
 - [Master MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs)
 
-### Toulouse
+### Toulouse <a id = "Toulouse"></a>
 
 ##### _Université de Toulouse - Jean Jaurès_ (UT2J), [Département Mathématiques et Informatique (DMI)](http://mathsinfo.univ-tlse2.fr/)
 
@@ -585,9 +624,9 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Spécialité [Systèmes Robotiques Interactifs](http://sri.univ-tlse.3.fr)
 - Spécialité [ Systèmes de Télécommunications et Réseaux Informatiques](https://www.upssitech.eu/formation/departement-systemes-de-telecommunications-reseaux-informatiques-stri)
 
-## Pays de la Loire
+## Pays de la Loire <a id = "Pays-de-la-Loire"></a>
 
-### Nantes
+### Nantes <a id = "Nantes"></a>
 
 #### [Centrale Nantes](https://www.ec-nantes.fr)
 
@@ -618,9 +657,9 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [option Réseau-Système-Cloud] 
 
 	
-## Provence Alpes Côte d'Azur
+## Provence Alpes Côte d'Azur <a id = "Provence-Alpes-Cote-dAzur"></a>
 
-### Nice
+### Nice <a id = "Nice"></a>
 
 #### Université Côte d'Azur
 
@@ -666,7 +705,7 @@ initiale/smiag1212)
    - [Informatique et Mathématiques Appliquées à la Finance et à l'Assurance (IMAFA)](http://formations.unice.fr/formation-initiale/sminf12122)
    - [Certificat National Informatique et Internet de niveau 1 (C2i)](http://formations.unice.fr/formation-initiale/bc2i215)
 
-### Toulon
+### Toulon <a id = "Toulon"></a>
 
 #### Université de Toulon
 
