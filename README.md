@@ -481,6 +481,16 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
   + [Spécialité Informatique](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-program-ginsi-116-2.html)
   + [Spécialité Informatique et réseaux en apprentissage](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-en-apprentissage-program-ginsi2-116-2.html)
   + [Spécialité Télécommunication et réseaux](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-telecommunications-et-reseaux-program-ginst-116-2.html)
+- [IUT de Villetaneuse](https://iutv.univ-paris13.fr/)
+  + [DUT Informatique](https://iutv.univ-paris13.fr/dut-informatique/)
+    + Formation classique ou en alternance (dès la première année)
+    + Également dispensé en un an via [la formation en année spéciale](https://iutv.univ-paris13.fr/dut-informatique-as/)
+  + [DUT GEII (Génie électronique et Informatique industrielle)](https://iutv.univ-paris13.fr/dut-genie-electrique-et-informatique-industrielle/)
+  + [DUT R&T (Réseaux et Télécommunications)](https://iutv.univ-paris13.fr/dut-reseaux-telecommunications/)
+    + Formation en alternance possible à partir de la deuxième année
+  + [LP MICDTL (métiers de l'informatique : conception, développement et test de logiciels)](https://iutv.univ-paris13.fr/licence-pro-genie-logiciel-systeme-dinformation/)
+  + [LP Administration et Sécurité des réseaux](https://iutv.univ-paris13.fr/licence-pro-asur-reseaux-et-telecommunications/)
+
 	 
 ## Nouvelle Aquitaine
 
