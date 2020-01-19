@@ -325,18 +325,24 @@ Administration et sécurité des réseaux (ASUR)
 - [LP AMIO - Applications web – applications mobiles et internet des objets](http://iutsd.univ-lorraine.fr/lp-applications-web-applications-mobiles-et-internet-des-objetslp-amio/)
 
 
-#### Université de Reims Champagne-Ardenne <a id = "Reims-Champagne-Ardenne"></a>
 
-- [DUT Informatique (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS6/PRDI3TS60)
-- [DUT Réseaux Télécom (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS8/PRDI3TS80)
-- [DUT Métiers du Multimédia et de l'Internet (2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRFH12TS9/PRDI3TS90)
-- [LP Médias Numériques Associés aux Technologies de l'Image et du Son (MENATIS, 1 an)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12PS8/PRDI3PS81)
-- [LP Systèmes d'Information Industriels et Informatique Mobile (S3IM)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12PSD/PRDI3PSD1)
-- [Licence Mention Informatique (3 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12LS2/PRDI3LS20) -> valide jusque septembre 2018
-- Master Informatique : -> valide jusque septembre 2018
-  + [Parcours Administration et Sécurité des réseaux" (ASR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS41)
-  + [Parcours Développement des Applications Réparties (DAR, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS42)
-  + [Parcours Ingénierie de l'Image et de la Connaissance (IIC, 2 ans)](http://formations.univ-reims.fr/cdm/fr/fiche/description/FRUAI0511296GPRME12MS4/PRDI3MS43)
+#### Université de Reims Champagne-Ardenne <a id = "Reims-Champagne-Ardenne"></a>
+- DUT
+    + [DUT Informatique](https://www.univ-reims.fr/formation/catalogue-de-formation/dut-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=17)
+    + [DUT Réseaux Télécom](https://www.univ-reims.fr/formation/catalogue-de-formation/dut-reseaux-et-telecommunications,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=21)
+    + [DUT Métiers du Multimédia et de l'Internet](https://www.univ-reims.fr/formation/catalogue-de-formation/dut-metiers-du-multimedia-et-de-l-internet,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=19)
+- Licence
+    + [Licence Informatique](https://www.univ-reims.fr/formation/catalogue-de-formation/licence-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=46)
+    + [LP Web, Informatique Mobile et Smart Industries](https://www.univ-reims.fr/formation/catalogue-de-formation/licence-professionnelle-metiers-de-l-informatique-conception-developpement-et-tests-de-logiciels,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=96)
+    + [LP Développement web front et back](https://www.univ-reims.fr/formation/catalogue-de-formation/licence-professionnelle-metiers-de-l-informatique-applications-web,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=95)
+    + LP Métiers des réseaux informatiques et télécommunications
+        + [Parcours Administration et sécurité des réseaux](https://www.univ-reims.fr/formation/catalogue-de-formation/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=98)
+        + [Parcours Architecte des réseaux multimedia](https://www.univ-reims.fr/formation/catalogue-de-formation/licence-professionnelle-metiers-des-reseaux-informatiques-et-telecommunications,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=99)    
+- Master
+    + [Master Informatique](https://www.univ-reims.fr/formation/catalogue-de-formation/master-informatique,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=198)
+    + [Master Réseaux et Télécomunication](https://www.univ-reims.fr/formation/catalogue-de-formation/master-reseaux-et-telecommunication,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=204)
+    + [Master Calcul Haute Performance, Simulation](https://www.univ-reims.fr/formation/catalogue-de-formation/master-calcul-haute-performance-simulation,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=191)
+- [Cursus Master en Ingéniérie (CMI) Informatique : High-Performance Visual Computing](https://www.univ-reims.fr/formation/catalogue-de-formation/cmi-informatique-high-performance-visual-computing,23515,38949.html?args=R9qFsCnMmKDtxCa17YTDkHVqaqbfYRXwwTnCVt2witCDUIiVoUdkeMDp%2AXGEGm2SMIhvMbuZ3_kOrRxvJlk6dOorIryuNioRCyFFyPAvhl9tCdwYdtHRrwAvNC1tDg_H&formation_id=217)
 
 #### Université de Strasbourg <a id = "Strasbourg"></a>
 
@@ -515,6 +521,16 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
   + [Spécialité Informatique](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-program-ginsi-116-2.html)
   + [Spécialité Informatique et réseaux en apprentissage](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-informatique-en-apprentissage-program-ginsi2-116-2.html)
   + [Spécialité Télécommunication et réseaux](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/formation-d-ingenieur-classique-FI/ingenieur-telecommunications-et-reseaux-program-ginst-116-2.html)
+- [IUT de Villetaneuse](https://iutv.univ-paris13.fr/)
+  + [DUT Informatique](https://iutv.univ-paris13.fr/dut-informatique/)
+    + Formation classique ou en alternance (dès la première année)
+    + Également dispensé en un an via [la formation en année spéciale](https://iutv.univ-paris13.fr/dut-informatique-as/)
+  + [DUT GEII (Génie électronique et Informatique industrielle)](https://iutv.univ-paris13.fr/dut-genie-electrique-et-informatique-industrielle/)
+  + [DUT R&T (Réseaux et Télécommunications)](https://iutv.univ-paris13.fr/dut-reseaux-telecommunications/)
+    + Formation en alternance possible à partir de la deuxième année
+  + [LP MICDTL (métiers de l'informatique : conception, développement et test de logiciels)](https://iutv.univ-paris13.fr/licence-pro-genie-logiciel-systeme-dinformation/)
+  + [LP Administration et Sécurité des réseaux](https://iutv.univ-paris13.fr/licence-pro-asur-reseaux-et-telecommunications/)
+
 	 
 ## Nouvelle Aquitaine <a id = "Nouvelle-Aquitaine"></a>
 
