@@ -491,10 +491,10 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 - Diplôme d'Université Consultant Fonctionnel ERP
 
 #### [Sorbonne Université](https://www.sorbonne-universite.fr)
-- [Licence d'informatique](http://sciences.sorbonne-universite.fr/fr/formations/diplomes/sciences_et_technologies2/licences/licence_st_mention_informatique.html)
-- [Licence professionnelle "Projet Web"](http://sciences.sorbonne-universite.fr/fr/formations/diplomes/sciences_et_technologies2/licences_professionnelles2/lp_projet_web_developpement_et_communication_multimedia.html)
+- [Licence d'informatique](http://sciences.sorbonne-universite.fr/formation-sciences/licences/licences-generales-l2-l3/licence-dinformatique)
+- [Licence professionnelle "Projet Web"](http://sciences.sorbonne-universite.fr/formation-sciences/licences/licences-professionnelles-l3/licence-professionnelle-metiers-de-0)
 - [DEUST Systèmes d'Information, Numérique et Electronique](https://www.polytech.upmc.fr/fr/formation/deust-sine)
-- [Master d'informatique]()
+- Master d'informatique
 	+ [Parcours ANDROIDE - Agents distribués robotique, recherche opérationnelle, interaction, décision (M2)](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-agents-distribues-robotique-recherche)
 	+ [Parcours BIM - Bioinformatique et modélisation (M2)](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-bio-informatique-et-modelisation-bim)
     + [Parcours DAC - Données, Apprentissage, Connaissances (M2)](http://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-donnees-apprentissage-connaissances-dac)
