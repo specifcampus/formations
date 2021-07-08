@@ -513,7 +513,7 @@ Le [site du département informatique](https://depinfo.u-cergy.fr/) a des inform
 	+ [Formation Informatique et Mathématiques Appliquées](https://www.polytech.upmc.fr/fr/formation/informatique-et-mathematiques-appliquees)
 	+ [Formation Robotique](https://www.polytech.upmc.fr/fr/formation/robotique)
 	
-#### [Université Paris 13](https://www.univ-paris13.fr/)
+#### [Université Sorbonne Paris Nord](https://www.univ-paris13.fr/)
 - [License d'informatique](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/licence-lmd-XA/licence-informatique-program-gl4inf-116-2.html)
 - [Master d'informatique]()
   + [Mention Informatique spécialité EID2 : Exploration informatique des données et décisionnel](http://odf.univ-paris13.fr/fr/offre-de-formation/feuilleter-le-catalogue-2015-2018/sciences-technologies-sante-STS/master-lmd-XB/master-mention-informatique-specialite-exploration-informatique-des-donnees-et-decisionnel-program-gi4ei2d-116-2.html)
